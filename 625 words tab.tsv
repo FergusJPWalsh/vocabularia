@@ -158,10 +158,11 @@ beverages	beer	cervisia, cervisiae f.
 beverages	juice	sūcus, sūcī m.
 beverages	water	aqua, aquae f.
 beverages	milk	lac, lactis n.
-beverages	beverage	pōtio, pōtiōnis f.
+beverages	drink, beverage	pōtio, pōtiōnis f.
 food	egg	ōvum, ovī n.
 food	cheese	cāseus, cāseī m.
 food	bread	pānis, pānis, m.
+food	biscuit, cookie	crustulum, crustulī n.
 food	soup	iūs, iūris n.
 food	cake	placenta, placentae f.
 food	chicken	pullus gallīnāceus, pullī gallīnāceī m.
@@ -171,9 +172,34 @@ food	apple	mālum, mālī n.
 food	banana	ariēna, ariēnae
 food	orange	mālum aurantium, mālī aurantiī n.
 food	lemon	mālum citreum, mālī citreī n.
+food	pear	pirum, pirī n.
+food	melon	mēlo, mēlōnis, m.
+food	grapes	ūvae, ūvārum f. pl.
+food	plum	prūnum, prūnī n.
+food	strawberry	frāgum, frāgī n.
+food	berry	bāca, bācae f.
+food	spice or seasoning	condīmentum, condīmentī n.
+food	herbs	herbae, herbārum f. pl.
 food	grain (wheat, corn)	frūmentum, frūmentī n.
 food	rice	orȳza, orȳzae f.
+food	vegetable	holus, holeris n.
+food	bean	faba, fabae f.
+food	cabbage	brassica, brassicae f.
+food	potato	malum terrestre, malī terrestris n.
+food	salad	acētāria, acētāriōrum n. pl.
+food	tomato	lycopersicum, lycopersicī n.
+food	onion	caepa, caepae f.
+food	pepper	capsicum, capsicī n.
+food	carrot	carōta, carōtae f.
+food	mushroom	fungus, fungī m.
+food	cucumber	cucumis, cucumeris m.
+food	leek	porrum, porrī n.
+food	garlic	ālium, āliī n.
 food	oil	oleum, oleī n.
+food	honey	mel, mellis n.
+food	mustard	mustardum, mustardī n.
+food	jam, jelly	pōma condita, pōmōrum conditōrum n. pl.
+food	butter	būtȳrum, būtȳrī n.
 food	seed	sēmen, sēminis n.
 food	knife	culter, cultrī m.
 food	spoon	coclear, cocleāris n.

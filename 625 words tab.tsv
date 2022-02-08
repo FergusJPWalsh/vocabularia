@@ -5,7 +5,7 @@ animal	bird	avis, avis f.
 animal	cow	vacca, vaccae f.
 animal	pig	sūs, suis e.
 animal	mouse	mūs, mūris e.
-animal	horse	equus, equī
+animal	horse	equus, equī m. equa, equae f.
 animal	wing	āla, ālae f.
 animal	animal	animal, animālis n.
 transportation	train	trāmen, trāminis n.
@@ -14,8 +14,8 @@ transportation	car	raeda, raedae f.
 transportation	bicycle	birota, birotae f.
 transportation	bus	raeda longa, raedae longae f.
 transportation	boat	nāvīs, nāvis f.
-transportation	petrol (gasoline)	petroleum, petroleī n.
-transportation	(train) ticket	tessera, tesserae f.
+transportation	petrol, oil	petroleum, petroleī n.
+transportation	ticket	tessera, tesserae f.
 location	city	urbs, urbis f.
 location	house	domus, domūs f.
 location	apartment	diaeta, diaetae f.
@@ -62,8 +62,8 @@ colour	brown	fulvus, fulva, fulvum
 colour	pink	pūniceus, pūnicea, pūniceum
 colour	black	niger, nigra, nigrum
 colour	white	albus, alba, album
-colour	grey (gray)	cānus, cāna, cānum 
-person	colour (color)	color, colōris m.
+colour	grey	cānus, cāna, cānum 
+person	colour	color, colōris m.
 person	son	fīlius, fīliī m.
 person	daughter	fīlia, fīiliae f.
 person	mother	māter, mātris f.
@@ -104,8 +104,8 @@ job	army	exercitus, exercitūs m.
 job	soldier	mīles, mīlitis e.
 job	artist	artifex, artificis e.
 job	author	scrīptor, scrīptōris e.
-job	manager	praefectus, praefectī/praefecta, praefectae e.
-job	reporter	relātor, relātōris/relātrix, relatrīcis e.
+job	manager	praefectus, praefectī m. praefecta, praefectae f.
+job	reporter	relātor, relātōris m. relātrix, relatrīcis f.
 job	actor	histriō, histriōnis e.
 job	job	opus, operis n.
 society	religion	religiō, religiōnis f.
@@ -115,7 +115,7 @@ society	death	mors, mortis f.
 society	medicine	medicāmentum, medicāmentī n. 
 society	money	pecūnia, pecūniae f.
 society	coin	nummus, nummī m.
-society	pound sterling	lībra, lībrae f.
+society	pound (pound sterling or weight)	lībra, lībrae f.
 society	dollar	talentum, talentī n.
 society	marriage	coniugium, coniugiī n.
 society	wedding	nuptiae, nuptiārum f. pl.
@@ -133,7 +133,7 @@ society	election	suffrāgium, suffrāgiī n.
 society	magazine	ephēmeridēs, ephēmeridum f. pl.
 society	newspaper	ācta diurna, āctōrum diurnōrum n. pl.
 society	poison	venēnum, venēnī n.
-society	gun	sclopetum
+society	gun	sclopetum, sclopetī n.
 society	sport	āthlētica, āthlēticōrum n. pl.
 society	race (sport)	certāmen, certāminis n.
 society	exercise	exercitātio (corporis), exercitātiōnis f.
@@ -141,7 +141,6 @@ society	ball	pila, pilae f.
 society	game	lūdus, lūdī m.
 society	price	pretium, pretiī n.
 society	contract	pactio, pactiōnis f.
-society	drug	medicāmentum, medicāmentī n.
 society	sign	signum, signī n.
 society	science	historia nātūrālis, historiae nātūrālis f.
 society	God	Deus, Deī m.
@@ -149,7 +148,7 @@ art	band	chorus, chorī m.
 art	song	carmen, carminis n.
 art	instrument (musical)	organum, organī n.
 art	music	cantus, cantūs m.
-art	film (movie)	pellicula, pelliculae f.
+art	film, movie	pellicula, pelliculae f.
 art	art	ars, artis f.
 beverages	coffee	caffēum, caffēī n.
 beverages	tea	thea, theae f.
@@ -185,7 +184,7 @@ food	rice	orȳza, orȳzae f.
 food	vegetable	holus, holeris n.
 food	bean	faba, fabae f.
 food	cabbage	brassica, brassicae f.
-food	potato	malum terrestre, malī terrestris n.
+food	potato	mālum terrestre, mālī terrestris n.
 food	salad	acētāria, acētāriōrum n. pl.
 food	tomato	lycopersicum, lycopersicī n.
 food	onion	caepa, caepae f.
@@ -238,7 +237,7 @@ home	ceiling	lacūnar, lacūnāris n.
 home	roof	tēctum, tēctī n.
 home	pool	piscīna, piscīnae f.
 home	telephone	tēlēphonum, tēlēphonī n.
-home	garden (yard Am. E.)	hortus, hortī m.
+home	garden	hortus, hortī m.
 home	yard	ārea, āreae f.
 home	needle	acus, acūs f.
 home	bag	saccus, saccī m.
@@ -261,7 +260,7 @@ body	lip	labrum, labrī n.
 body	nose	nāsus, nāsī m.
 body	tooth	dēns, dentis m.
 body	ear	auris, auris f.
-body	tear (drop)	lacrima, lacrimae f.
+body	tear drop	lacrima, lacrimae f.
 body	tongue	lingua, linguae f.
 body	back	tergum, tergī n.
 body	toe	digitus, digitī m.
@@ -296,7 +295,7 @@ nature	forest	silva, silvae f.
 nature	sky	caelum, caelī n.
 nature	plant	herba, herbae f.
 nature	wind	ventus, ventī m.
-nature	soil/earth	solum, solī n.
+nature	soil, earth	solum, solī n.
 nature	flower	flōs, flōris m.
 nature	valley	vallis, vallis f.
 nature	root	rādīx, rādīcis f.
@@ -325,7 +324,7 @@ materials	gold	aurum, aurī n.
 materials	copper	aes, aeris n.
 materials	silver	argentum, argenī n.
 materials	material	māteria, māteriae f.
-maths	metre (meter)	metrum, metrī n.
+maths	metre	metrum, metrī n.
 maths	centimetre	centimetrum, centimetrī n.
 maths	kilogram	chilogramma, chilogrammatis n.
 maths	inch	ūncia, ūnciae f. 
@@ -365,7 +364,7 @@ directions	front	frōns, frontis f.
 directions	back	tergum, tergī n.
 directions	outside	forīs (place), forās (direction)
 directions	inside	intus
-directions	up (upwards)	sūrsum
+directions	up, upwards	sūrsum
 directions	down	deorsum
 directions	left	sinistrōrsum
 directions	right	dextrōrsum
@@ -469,12 +468,12 @@ verbs	sell	vendō, vendere, vendidī, venditum
 verbs	learn	discō, discere, didicī
 verbs	jump	saliō, salīre, saluī/saliī
 verbs	smell	olfaciō, olfacere, olfēcī, olfactum
-verbs	hear (a sound)	audiō, audīre, audīvī/audiī, audītum
-verbs	listen (music)	auscultō, auscultāre, auscultāvi, auscultātum
+verbs	hear	audiō, audīre, audīvī/audiī, audītum
+verbs	listen	auscultō, auscultāre, auscultāvi, auscultātum
 verbs	taste	gustō, gustāre, gustāvi, gustātum
 verbs	touch	tangō, tangere, tetigī, tāctum
 verbs	see	videō, vidēre, vīdī, vīsum
-verbs	watch (TV)	spectō, spectāre, spectāvi, spectātum
+verbs	watch	spectō, spectāre, spectāvi, spectātum
 verbs	kiss	ōsculor, ōsculārī, ōsculātum
 verbs	burn	ārdeō, ārdēre, ārsī, ārsūrus
 verbs	melt	liquefaciō, liquefacere, liquefēcī, liquefactum
@@ -495,8 +494,7 @@ verbs	count	numerō, numerāre, numerāvi, numerātum
 verbs	marry	in mātrimōnium dūcō, dūcere, dūxī, ductum
 verbs	pray	precor, precārī, precātum
 verbs	win	vincō, vincere, vīcī, victum
-verbs	lose	? Pass of above?
-verbs	mix/stir	misceō, miscēre, miscuī, mixtum
+verbs	mix, stir	misceō, miscēre, miscuī, mixtum
 verbs	bend	flectō, flectere, flexī, flexum
 verbs	wash	lavō, lavāre, lāvī, lautum/lōtum/lavātum
 verbs	cook	coquō, coquere, coxī, coctum
@@ -529,8 +527,8 @@ adjectives	tall (in height)	altus, alta, altum
 adjectives	short (in height)	brevis, breve
 adjectives	wide	lātus, lāta, lātum
 adjectives	narrow	angustus, angusta, angustum
-adjectives	big/large	magnus, magna, magnum (maior, maius; maximus, maxima, maximum)
-adjectives	small/little	parvus, parva, parvum (minor, minus; minimus, minima, minimum)
+adjectives	big, large	magnus, magna, magnum (maior, maius; maximus, maxima, maximum)
+adjectives	small, little	parvus, parva, parvum (minor, minus; minimus, minima, minimum)
 adjectives	slow	tardus, tarda, tardum
 adjectives	fast	vēlōx, vēlōcis (m.,f.,n.)
 adjectives	hot	calidus, calida, calidum
@@ -578,7 +576,7 @@ adjectives	weak	īnfirmus, īnfirma, īnfirmum
 adjectives	dead	mortuus, mortua, mortuum
 adjectives	alive	vīvus, vīva, vīvum
 adjectives	heavy	gravis, grave
-adjectives	light (not heavy)	illūstris, illūstre
+adjectives	light (opp. dark)	illūstris, illūstre
 adjectives	dark	obscūrus, obscūra, obscūrum
-adjectives	light (not dark)	levis, leve
+adjectives	light (opp. heavy)	levis, leve
 adjectives	famous	nōtus, nōta, nōtum

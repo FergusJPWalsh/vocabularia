@@ -11,3 +11,9 @@ Latin text is also being corrected (currently some typos, standardising use of V
 ```bwl-ned.txt``` contains the original Dutch translations.
 
 See also http://www.stilus.nl/woorden/ for more resources on BWL
+
+
+add in:
+eo
+sic itur ad astra
+het kostte hem moeite zijn woede te bedwingen

@@ -1,16 +1,694 @@
-author	lemma	lat	eng	ned
-Caesar	adorior	novissimōs adoriēbantur	they attacked the rear guard	zij vielen de achterhoede aan
-Caesar	aedificium	omnibus vīcīs aedificiīsque incēnsīs	after setting fire to all the villages and buildings	na alle gehuchten en hoeven in brand gestoken te hebben
-Caesar	agger	aggere palūdem explēvērunt	they filled the swamp with earth	ze dempten het moeras met aarde
-Caesar	appropinquo	Haeduōs fīnibus Bellovacōrum appropinquāre cognōverant	they heard that the Haedui were approaching the territory of the Bellovaci	zij hadden vernomen dat de Haedui het gebied van de Bellovaci naderden
-Caesar	attribuo	gladiātōribus equōs attribuit	he assigned horses to the gladiators	hij wees de gladiatoren paarden toe
-Caesar	calamitas	mollīs ac minimē resistēns ad calamitātēs ferendās mēns Gallōrum est	the mind of the Gauls is soft and not resistant to suffering losses	de Galliërs zijn mentaal niet hard en allerminst bestand tegen het incasseren van verliezen
-Caesar	circuitus	collem propter magnitūdinem circuitūs opere circumplectī nōn poterant	they could not enclose the hill with siege works because of its large size	zij konden de heuvel vanwege de enorme omvang niet met belegeringswerken insluiten
-Caesar	circumsisto	circumsistunt hominem atque interficiunt	they surrounded the man and killed him	zij omsingelen de man en doden hem
-Caesar	communico	petunt ā Vercingetorige, ut ratiōnēs bellī gerendī commūnicet	they ask Vercingetorix to discuss strategy with them together	zij vragen Vercingetorix gezamenlijk de strategie te bespreken
-Caesar	comparo	fugam comparāre	to prepare to flee	zich op een vlucht voorbereiden
-Caesar	comparo	magnam auctōritātem sibi comparāverat	he had acquired great authority for himself	hij had zich groot gezag verworven
-Caesar	conspicior	procul equitātum Caesaris cōnspicātus est	he spotted Caesar's cavalry from afar	hij zag de ruiterij van Caesar van verre
-Caesar	continens	pars in continentēs palūdēs profūgit	some of them took refuge in the nearby marshes	een deel nam de wijk naar de aangrenzende moerassen
-Caesar	continens	continēns omnium diērum labor	the work is uninterrupted throughout the day and night	werk dat ononderbroken dag in dag uit voortduurt
-Caesar	controversia	per colloquia omnēs contrōversiae compōnuntur	all disputes are settled through discussion	door gesprekken worden alle geschillen bijgelegd
+author	lemma	lat	eng	ned	
+Caesar	adorior	novissimōs adoriēbantur	they attacked the rear guard	zij vielen de achterhoede aan	
+Caesar	aedificium	omnibus vīcīs aedificiīsque incēnsīs	after setting fire to all the villages and buildings	na alle gehuchten en hoeven in brand gestoken te hebben	
+Caesar	agger	aggere palūdem explēvērunt	they filled the swamp with earth	ze dempten het moeras met aarde	
+Caesar	appropinquo	Haeduōs fīnibus Bellovacōrum appropinquāre cognōverant	they heard that the Haedui were approaching the territory of the Bellovaci	zij hadden vernomen dat de Haedui het gebied van de Bellovaci naderden	
+Caesar	attribuo	gladiātōribus equōs attribuit	he assigned horses to the gladiators	hij wees de gladiatoren paarden toe	
+Caesar	calamitas	mollīs ac minimē resistēns ad calamitātēs ferendās mēns Gallōrum est	the mind of the Gauls is soft and not resistant to suffering losses	de Galliërs zijn mentaal niet hard en allerminst bestand tegen het incasseren van verliezen	
+Caesar	circuitus	collem propter magnitūdinem circuitūs opere circumplectī nōn poterant	they could not enclose the hill with siege works because of its large size	zij konden de heuvel vanwege de enorme omvang niet met belegeringswerken insluiten	
+Caesar	circumsisto	circumsistunt hominem atque interficiunt	they surrounded the man and killed him	zij omsingelen de man en doden hem	
+Caesar	communico	petunt ā Vercingetorige, ut ratiōnēs bellī gerendī commūnicet	they ask Vercingetorix to discuss strategy with them together	zij vragen Vercingetorix gezamenlijk de strategie te bespreken	
+Caesar	comparo	fugam comparāre	to prepare to flee	zich op een vlucht voorbereiden	
+Caesar	comparo	magnam auctōritātem sibi comparāverat	he had acquired great authority for himself	hij had zich groot gezag verworven	
+Caesar	conspicior	procul equitātum Caesaris cōnspicātus est	he spotted Caesar's cavalry from afar	hij zag de ruiterij van Caesar van verre	
+Caesar	continens	pars in continentēs palūdēs profūgit	some of them took refuge in the nearby marshes	een deel nam de wijk naar de aangrenzende moerassen	
+Caesar	continens	continēns omnium diērum labor	the work is uninterrupted throughout the day and night	werk dat ononderbroken dag in dag uit voortduurt	
+Caesar	controversia	per colloquia omnēs contrōversiae compōnuntur	all disputes are settled through discussion	door gesprekken worden alle geschillen bijgelegd	
+Caesar	demonstrare	ad ea castra quae suprā dēmōnstrāvimus, contendit	he rushed to that camp I talked about before	hij haastte zich naar dat kamp waarover ik eerder gesproken heb	
+Caesar	desistere	hōc cōnātū dēstitērunt	they gave up on this attempt	zij gaven deze poging op	
+Caesar	desistere	sub occāsum sōlis sequī dēstitērunt	at sunset they gave up the chase	tegen zonsondergang staakten zij de achtervolging	
+Caesar	desperare	dē omnī salūte dēspērant	they have no hope of salvation	zij hebben geen enkele hoop op redding	
+Caesar	diligentia	magnam rēs dīligentiam requīrēbat	the case required great care	de zaak vereiste grote zorgvuldigheid	
+Caesar	discessus	dē Germānōrum discessū per explōrātōrēs certiōrēs factī sunt	they were informed by scouts of the withdrawal of the Germans	zij werden door verkenners van het wegtrekken van de Germanen op de hoogte gebracht	
+Caesar	distribuere	cōpiās in trēs partēs distribuit	he divided his troops into three	hij verdeelde zijn troepen in drieën	
+Caesar	equester	proelium equestre	a horseman's fight	een ruitergevecht	
+Caesar	eruptio	ex oppidō ēruptiōnem fēcērunt	they made a sally from the fortress	zij deden een uitval vanuit de vesting	
+Caesar	evocare	mercātōrēs undique ad sē ēvocāvit	he called the merchants to him from all sides	hij riep de kooplieden van alle kanten bij zich	
+Caesar	evocare	magnā cum contumēliā verbōrum nostrōs ad pugnam ēvocant	with many insulting words they challenge our people to a fight	met veel beledigende woorden dagen zij onze mensen uit tot een gevecht	
+Caesar	explorator	dē Germānōrum discessū per explōrātōrēs certiōrēs factī sunt	they were informed by scouts of the withdrawal of the Germans	zij werden door verkenners van het wegtrekken van de Germanen op de hoogte gebracht	
+Caesar	expugnare	id oppidum oppugnāre cōnātūs expugnāre nōn potuit	in his attempt to storm that fortress he failed to capture it	bij zijn poging die vesting te bestormen slaagde hij er niet in hem te veroveren	
+Caesar	facultas	reliquīs fugae facultās datur	the rest are given the opportunity to flee	de overigen wordt de gelegenheid gegeven te vluchten	
+Caesar	facultas	omnium rērum quae ad bellum ūsuī erant summa erat in eō oppidō facultās	there was in that city an abundance of everything needed for the war	er was in die stad een overvloed van alles wat voor de oorlog nodig was	
+Caesar	fossa	castra vāllō fossāque mūnīrī jubet	he ordered that the camp be fortified with a rampart and a moat	hij gaf opdracht het kamp met een wal en een gracht te versterken	
+Caesar	frumentarius	rē frūmentāriā comparātā ad Ariovistum contendit	after arranging the grain supply, he marched on Ariovistus	na de korenvoorziening geregeld te hebben marcheerde hij op Ariovistus af	
+Caesar	hiemare	trēs legiōnēs quae circum Aquilēiam hiemābant ex hībernīs ēdūcit	the three legions that wintered around Aquileia he led from their winter quarters	de drie legioenen die rond Aquileia overwinterden voerde hij uit hun winterkwartier	
+Caesar	impeditus	impedītōs hostēs propter ea quae ferēbant onera adortī sunt	they attacked the enemies who were hindered by the burdens they bore	zij deden een aanval op de vijanden, die gehinderd werden door de lasten die zij droegen	
+Caesar	impeditus	omnium animīs impedītīs	when everyone's attention was taken	toen ieders aandacht in beslag genomen was	
+Caesar	impetrare	ā Sēquanīs impetrat ut per fīnēs suōs Helvētiōs īre patiantur	he manages to get the Sequani to permit the Helvetians to pass through their territory	hij weet van de Sequani gedaan te krijgen dat dezen de Helvetiërs toestaan door hun gebied te trekken	
+Caesar	incommodum	eā rēs magnum nostrīs attulit incommodum	that circumstance brought great inconvenience to our people	die omstandigheid bracht onze mensen groot ongemak	
+Caesar	intercedere	silvae palūdēsque intercēdēbant	there were forests and swamps in between	er lagen wouden en moerassen tussen	
+Caesar	intercludere	frūmentō commeātūque Caesarem interclūsit	he cut off the supply of grain and other necessities to Caesar	hij sneed de aanvoer van graan en andere benodigdheden naar Caesar af	
+Caesar	intermittere	mīlitēs hortābātur nē quod tempus ab opere intermitterētur	he urged his soldiers not to interrupt their work for a moment	hij spoorde zijn soldaten aan het werk geen ogenblik te onderbreken	
+Caesar	maritimus	maritimae cīvitātēs	peoples living by the sea	volkeren die aan zee wonen	
+Caesar	munitio	Helvētiī operis mūnītiōne et tēlīs repulsī sunt	the Helvetians were driven back by the fortifications and the spears	de Helvetiërs werden door de aangelegde versterkingen en de speren teruggedreven	
+Caesar	necessario 	fūnibus abscīsīs antemnae necessāriō concidēbant	when the cables were cut, the yards had to fall down	toen de kabels doorgehakt waren, moesten de ra's wel naar beneden vallen	
+Caesar	obses	obsidēs utī inter sē dent perficit	he manages to get them to exchange hostages	hij weet te bereiken dat zij gijzelaars uitwisselen	
+Caesar	pagus	omnis cīvitās Helvētia in quattuor pāgōs dīvīsa est	the whole Helvetic tribe is divided into four cantons	de hele Helvetische stam is verdeeld in vier kantons	
+Caesar	peditatus	equitātum peditātumque cōgere īnstituit	he decided to pull the cavalry and infantry together	hij besloot de cavalerie en de infanterie samen te trekken	
+Caesar	permanēre	hortātus est utī in officiō permanēret	he urged him to faithfully fulfill his duties	hij spoorde hem aan zijn plichten trouw te blijven vervullen	
+Caesar	perspicere	operis perspiciendī causā vēnerat	he had come to inspect the work	hij was gekomen om het werk te inspecteren	
+Caesar	perspicere	eōrum in sē fidem perspexerat	he had noticed their loyalty to him	hij had hun trouw jegens hem opgemerkt	
+Caesar	praeficere	huic legiōnī M. Crassum quaestōrem praefēcit	he made the quaestor M. Crassus commander of this legion	hij maakte de quaestor M. Crassus commandant van dit legioen	
+Caesar	praeficere	praefectus equitum	cavalry commander	kommandant van de cavalerie	
+Caesar	producere	cōpiās prōdūxit	he sent out his troops	hij liet zijn troepen uitrukken	
+Caesar	producere	rem in hiemem prōdūcere	stretch the case until winter	de zaak tot de winter rekken	
+Caesar	pronuntiare	jussērunt prōnūntiārī, ut impedīmenta relinquerent	they ordered everyone to know that he had to leave his luggage	zij gelastten aan iedereen bekend te maken dat hij zijn bagage moest achterlaten	
+Caesar	redigere	cīvitātem Biturigum sē in potestātem redāctūrum cōnfīdēbat	he trusted to bring the tribe of the Bituriges back under his authority	hij vertrouwde erop de stam van de Bituriges weer onder zijn gezag te zullen brengen	
+Caesar	redigere	Gallia in prōvinciam redācta est	Gaul was made a province	Gallië werd tot een provincie gemaakt	
+Caesar	remanēre	Rōmae remānserant	they had stayed behind in Rome	zij waren in Rome achtergebleven	
+Caesar	repellere	nostrōs repellit ā castrīs	he drives our people away from the camp	hij drijft onze mensen weg van het kamp	
+Caesar	repellere	ab hāc spē repulsī sunt	they were disappointed in this expectation	zij werden in deze verwachting teleurgesteld	
+Caesar	repentinus	ut sunt Gallōrum subita et repentīna cōnsilia	thoughtless and hasty as the decisions of the Gauls are	ondoordacht en overijld als de besluiten van de Galliërs zijn	
+Caesar	submittere	submittit cohortēs equitibus subsidiō	he sends cohorts to support the riders	hij stuurt cohorten om de ruiters te steunen	
+Caesar	subsequi	Caesar equitātū praemissō subsequēbātur omnibus cōpiīs	Caesar sent his cavalry ahead and immediately followed with all his troops	Caesar stuurde zijn ruiterij vooruit en volgde onmiddellijk met al zijn troepen	
+Caesar	trans	hominum multitūdinem trāns Rhēnum in Galliam trādūxit	he has brought a multitude of people across the Rhine to Gaul	hij heeft een menigte mensen de Rijn over gezet naar Gallië	
+Caesar	trans	Germānī trāns Rhēnum incolunt	The Germans live on the other side of the Rhine	De Germanen wonen aan de overzijde van de Rijn	
+Caesar	vicus	omnibus vīcīs aedificiīsque incēnsīs	after setting fire to all the hamlets and farms	na alle gehuchten en hoeven in brand gestoken te hebben	
+Caesar	vulnerare	L. Cotta in adversum os saxō vulnerātur	Lucius Cotta is wounded by a stone in the middle of his face	Lucius Cotta wordt door een steen midden in zijn gezicht gewond	
+Catullus	amictus	nōn contēcta pectus amictū erat	her breast was not covered by her dress	haar borst was niet door haar kleed bedekt	
+Catullus	arca	nec servum ille habet neque arcam	he has no slaves and no money	hij heeft geen slaven en geen geld	
+Catullus	as	rūmōrēs omnēs ūnīus aestimēmus assīs	let's not think all the talk is worth a cent	laten we alle praatjes geen cent waard achten	
+Catullus	basium	dā mī bāsia mīlle	give me a thousand kisses	geef mij duizend kussen	
+Catullus	bellus	quis nunc tē adībit? cui vidēberis bella?	who will visit you now? who will find you attractive?	wie zal je nu opzoeken? wie zal je aantrekkelijk vinden?	
+Catullus	cachinnus	ō rem rīdiculam, Catō, dignam tuō cachinnō	a comic incident, Cato, worth your laugh	een komisch voorval, Cato, jouw schaterlach waard	
+Catullus	charta	ausus es omne aevum tribus explicāre chartīs	you dared the whole history in three	jij hebt het aangedurfd de hele geschiedenis in drie	
+Catullus	cinaedus	pulchrē convenit inprobīs cinaedīs Māmurrae Caesarīque	books to unfold shameless fags Mamurra and Caesar get along very well	boeken te ontvouwende schaamteloze flikkers Mamurra en Caesar kunnen het uitstekend samen vinden	
+Catullus	deliciae	passer, dēliciae meae puellae	the sparrow, my girl's darling	het musje, de lieveling van mijn meisje	
+Catullus	disertus	disertissimē Rōmulī nepōtum, Mārce Tullī	most eloquent of Romulus' descendants, Marcus Tullius	meest welbespraakte van Romulus' nakomelingen, Marcus Tullius	
+Catullus	disperire	Lesbia mē dispeream nisī amat	I can drop dead if Lesbia doesn't love me	ik mag doodvallen als Lesbia niet van mij houdt	
+Catullus	erus	caelestēs erī	the heavenly commanders	de hemelse gebieders	
+Catullus	excruciare	tē cūr amplius excruciēs?	why bother yourself any more?	waarom zou je jezelf nog meer kwellen?	
+Catullus	filum	regēns tenuī vestīgia fīlō	determines its direction with the help of a thin wire	met behulp van een dunne draad zijn richting bepalend	
+Catullus	flamen	ventōrum flāmine	by the blowing of the winds	door het blazen van de winden	
+Catullus	fusus	currite dūcentēs subtegmina, currite, fūsī	hasten on, coil, spinning the threads, haste on	haast u voort, spoelen, de draden spinnend, haast u voort	
+Catullus	gremium	nec sēsē ā gremiō illīus movēbat	he didn't leave her lap	hij week niet van haar schoot	
+Catullus	imbuere	tellūs scelere est imbūta nefandō	the earth is tainted with terrible crimes	de aarde is bezoedeld met ontzaglijke misdaden	
+Catullus	infacetus	īnfacētior est īnfacētō rūre	he has even less humor than a blunt farmer	hij heeft nog minder humor dan een botte boer	
+Catullus	invenustus	nōn illepidum neque invenustum est	it is very witty and elegant	het is heel geestig en elegant	
+Catullus	invisere	quam tē libenter invīsō!	how I would like to come and see you!	hoe graag kom ik je opzoeken!	
+Catullus	labellum	cui labella mordēbis?	whose lips will you bite?	wiens lippen zal jij bijten?	
+Catullus	lepidus	cui dōnō lepidum novum libellum?	to whom do I give this charming new book?	aan wie schenk ik dit charmante nieuwe boekje?	
+Catullus	linteum	īnflātī cōnspexit lintea vēlī	he saw the linen of the billowed sail	hij zag het linnen van het gebolde zeil	
+Catullus	medulla	ignis mollibus ārdet in medullīs	a fire burns deep in my defenseless heart	een vuur brandt diep in mijn weerloos hart	
+Catullus	mentula	nōn homō, sed mentula magna mināx	not a man, but a big, aggressive cock	geen man, maar een grote, agressieve lul	
+Catullus	nurificus	mīrificē spērābat sē esse locūtum	he thought he had spoken surprisingly well	hij dacht dat hij verbazend mooi gesproken had	
+Catullus	mirus	nec mīrum!	no wonder!	geen wonder!	
+Catullus	misellus	ō misellē passer	poor little sparrow!	arm klein musje!	
+Catullus	moecha	Paris abductā gāvīsus moechā	Paris, happy with the woman he had chess	Paris, gelukkig met de vrouw die hij geschaakt had	
+Catullus	molestus	ōtium, Catulle, tibi molestum est	idleness, Catullus, is your big problem	nietsdoen, Catullus, is jouw grote probleem	
+Catullus	mordēre	cui labella mordēbis?	whose lips will you bite?	wiens lippen zal jij bijten?	
+Catullus	nefandus	tellūs scelere est imbūta nefandō	the earth is tainted with terrible crimes	de aarde is bezoedeld met ontzaglijke misdaden	
+Catullus	obdurare	tū, Catulle, dēstinātus obdūrā	you, Catullus, hold on firmly	jij, Catullus, houd vastberaden vol	
+Catullus	ocellus	meae puellae flendō turgidulī rubent ocellī	my girl's sweet eyes are swollen and red from crying	de lieve ogen van mijn meisje zijn gezwollen en rood van het huilen	
+Catullus	passer	passer, dēliciae meae puellae	the sparrow, my girl's darling	het musje, de lieveling van mijn meisje	
+Catullus	poëma	hoc, jūcundē, tibi poēma fēcī	darling, I made this poem for you	lieveling, ik heb voor jou dit gedicht gemaakt	
+Catullus	quandoquidem	quandōquidem fortūna mihi tētē abstulit	because fate has taken you away from me	omdat het lot jou van mij heeft weggenomen	
+Catullus	quot	quaeris quot mihi bāsiātiōnēs tuae, Lesbia, sint satis	you ask me, Lesbia, how many kisses from you are enough for me	je vraagt mij, Lesbia, hoeveel kussen van jou voor mij voldoende zijn	
+Catullus	roseus	rosea labella	Red lips	rode lippen	
+Catullus	sal	flūctūs salis	the waves of the sea	de golven van de zee	
+Catullus	salvēre	salvē, ō venusta Sirmiō	greetings, my lovely Sirmio	gegroet, mijn lieflijk Sirmio	
+Catullus	subtegmen	currite dūcentēs subtegmina, currite, fūsī	hasten on, coil, spinning the threads, haste on	haast u voort, spoelen, de draden spinnend, haast u voort	
+Catullus	surripere	numquam jam posthāc bāsia surripiam	I will never steal kisses from you again	nooit meer zal ik voortaan kussen van jou stelen	
+Catullus	tacēre	Lesbia mī dīcit semper male nec tacet umquam dē mē	Lesbia always scolds me and can't stop talking about me	Lesbia scheldt altijd op mij en raakt over mij niet uitgepraat	
+Catullus	trecenti	simul complexa tenet trecentōs moechōs	she holds hundreds of adulterers in her arms at once	zij houdt honderden echtbrekers tegelijk in haar armen	
+Catullus	trux	fertur valle sub ālārum trux habitāre caper	they say that under your armpits lives a savage goat	men zegt dat onder jouw oksels een woeste bok woont	
+Catullus	venustus	salvē, ō venusta Sirmiō	greetings, my lovely Sirmio	gegroet, mijn lieflijk Sirmio	
+Catullus	versiculus	castum esse decet poētam ipsum, versiculōs nihil necesse est	a poet should be chaste himself, though his verses needn't be	een dichter hoort zelf kuis te zijn, zijn verzen hoeven dat helemaal niet te zijn	
+Cicero	abundare	abundāre dēbet ōrātor exemplōrum cōpia	an orator must have an abundance of examples	een redenaar moet beschikken over een overvloed aan voorbeelden	
+Cicero	alacer	repente ex alacrī atque laetō erat humilis atque dēmissus	from cheerful and happy he was suddenly submissive and depressed	van opgewekt en blij was hij ineens onderdanig en terneergeslagen	
+Cicero	anteponere	mors servitūtī turpitūdinīque antepōnenda est	rather death than slavery and shame!	liever de dood dan slavernij en schande!	
+Cicero	anulus	bellī apparātūs refrīgēscunt	the war preparations are fading	de oorlogsvoorbereidingen verflauwen	
+Cicero	apparatus	rēgiō apparātū acceptī sumus	we have been received with royal splendor	wij zijn met koninklijke luister ontvangen	
+Cicero	apparatus	quae sī approbātis, pergam ad reliqua	If you agree, I'll move on to what's left	als jullie het hiermee eens zijn, ga ik door met wat nog rest	
+Cicero	bellicus	vir abundāns bellicīs laudibus	a man showered with war glory	een man overladen met krijgsroem	
+Cicero	carcer	inclūduntur in carcerem condemnātī	the convicts are locked up in prison	de veroordeelden worden in de gevangenis opgesloten	
+Cicero	commemorare	haec tibi nōta sunt, mihi ad commemorandum nōn necessāria	you know these things so I don't have to remind	jij kent deze dingen, zodat ik er niet aan hoef te herinneren	
+Cicero	commemorare	commemorābō id quod egomet vīdī	I'll report what I saw myself	ik zal vermelden wat ik zelf gezien heb	
+Cicero	commutare	hic prīmus īnstitūta omnium convellere et commūtāre ausus est	he was the first who dared to undermine and change the habits of all	hij is de eerste geweest, die het waagde de gewoonten van allen te ondermijnen en te veranderen	
+Cicero	commutare	fidem suam et religiōnem pecūniā commūtāvit	he has set aside his loyalty and his scruples for money	hij heeft zijn trouw en zijn scrupules voor geld opzij gezet	
+Cicero	compensare	senectūtis vitia dīligentia compēnsanda sunt	one must by precision compensate for the defects of old age	men moet door precisie de gebreken van de ouderdom compenseren	
+Cicero	comprobare	meam voluntātem vestra exīstimātiō comprobet	may your judgment approve my endeavor	moge uw oordeel mijn streven goedkeuren	
+Cicero	comprobare	crīmen hoc testibus multīs comprobātur	this crime is proven by many witnesses	deze misdaad wordt door vele getuigen bewezen	
+Cicero	confitēri	habēs cōnfitentem reum	here you have a suspect confessing	hier heb je een verdachte die bekent	
+Cicero	conservare	ante collēctam fāmam cōnservat	he keeps intact his pre-built reputation	hij houdt zijn tevoren opgebouwde reputatie intact	
+Cicero	conservare	nihil est ad officia cōnservanda accommodātius	nothing more contributes to the observance of our duties	niets draagt meer bij tot het in acht nemen van onze plichten	
+Cicero	constitutio	cīvitās quae est cōnstitūtiō populī	a state, that is, an organized people	een staat, dat wil zeggen een georganiseerd volk	
+Cicero	constitutio	haec est rēgula philosophiae, cōnstitūtiō vērī falsī	the basis of philosophy is the determination of what is true and what is not	de basis van de filosofie is het vaststellen van wat waar en niet waar is	
+Cicero	conversio	sōlis et lūnae conversiō	the orbit of sun and moon	de omloop van zon en maan	
+Cicero	conversio	novōs mōtūs et conversiōnēs in rēpūblicā quaerunt 	they are after revolutionary innovations in the state	zij zijn uit op revolutionaire vernieuwingen in de staat	
+Cicero	declarare	hoc vērum esse dēclārāvit	he made it clear that this is true	hij heeft duidelijk gemaakt dat dit waar is	
+Cicero	declarare	cōnsul est dēclārātus	he has been appointed consul	hij is tot consul benoemd	
+Cicero	deinceps	reliqua deinceps persequēmur	we will deal with the rest afterwards	de rest zullen we daarna behandelen	
+Cicero	deinceps	deinceps omnēs magistrātūs nōmināvit	he listed all the offices in succession	achtereenvolgens noemde hij alle ambten op	
+Cicero	diligens	dē hāc rē aliō locō dīligentius dictum est	this matter has been discussed in more detail elsewhere	over deze zaak is elders nauwkeuriger gesproken	
+Cicero	disciplina	ā Zēnōne disciplīna Stōicōrum est	the teaching of the Stoics comes from Zeno	de leer van de Stoïcijnen stamt van Zeno	
+Cicero	disputare	ā Carneade multa contrā Stōicōs disputāta sunt	Carneades advanced many arguments against the Stoics	Carneades heeft veel argumenten tegen de Stoïcijnen naar voren gebracht	
+Cicero	distinguere	vērum ā falsō distinguere	distinguish true from false	waar van onwaar onderscheiden	
+Cicero	divinatio	ab Apolline dīvīnātiōnem habēre vidētur	he seems to have the gift of prophecy of Apollo	hij schijnt de gave der voorspelling van Apollo te hebben	
+Cicero	dominatus	rēspūblica dominātū rēgiō līberāta est	the state is liberated from the rule of kings	de staat is bevrijd van de heerschappij der koningen	
+Cicero	evanescere	pictūra ēgregia, sed jam ēvānēscēns vetustāte	a beautiful painting, but already faded by age	een prachtig schilderij, maar reeds verblekend door ouderdom	
+Cicero	explicare	dē rēpūblicā quid sentiās explicā	state your views on the state	zet uw mening over de staat uiteen	
+Cicero	fanum	ex fānō Apollinis signa sustulit	he stole statues from the temple of apollo	hij stal beelden uit de tempel van Apollo	
+Cicero	fremitus	fremitus murmurantis maris	the roar of the rushing sea	het geraas van de ruisende zee	
+Cicero	gloriari	Epicūrus glōriābātur sē magistrum habuisse nūllum	Epicurus boasted that he had no tutor	Epicurus ging er prat op dat hij geen leermeester had gehad	
+Cicero	gubernare	deus mundum gubernat	the world is ruled by god	de wereld wordt door god bestuurd	
+Cicero	hereditas	hērēditātem nōn adiit	he did not accept the inheritance	hij heeft de erfenis niet aanvaard	
+Cicero	historia	historia magistra vītae	history is the teacher of life	de geschiedenis is de leermeesteres van het leven	
+Cicero	improviso	morbus eum imprōvīsō oppressit	an illness has taken him unexpectedly	een ziekte heeft hem onverwachts overvallen	
+Cicero	inscribere	liber quī īnscrībitur Dē Amīcitiā	the book titled The Friendship	het boek getiteld De Vriendschap	
+Cicero	interimere	Priamum hostīlis manus interemit	Priam was killed by the enemy's hand	Priamus kwam door vijandelijke hand om	
+Cicero	interpretari	paene dīvīna in lēgibus interpretandīs scientiā	an almost divine knowledge in explaining the laws	een bijna goddelijke kennis in het uitleggen van de wetten	
+Cicero	iurare	jūrō per deōs mē vērum dīxisse	I swear by the gods I have spoken the truth	ik zweer bij de goden de waarheid gesproken te hebben 	
+Cicero	locuples	in prōvinciā tam locuplēte	in such a rich province	in een zo rijke provincie	
+Cicero	locuples	locuplētissimī testēs	very reliable witnesses	zeer betrouwbare getuigen	
+Cicero	magus	magōrum disciplīna scientiaque	the teachings and sciences of the magicians	de leer en wetenschap van de magiërs	
+Cicero	mentiri	mentīrī nefās habēbātur	lying was a sin	liegen gold als zonde	
+Cicero	migrare	sapiēns nōn dubitat, sī ita melius sit, migrāre dē vītā	a philosopher does not hesitate to take his own life, if it is for the best	een filosoof aarzelt niet uit het leven te stappen, als dit het beste is	
+Cicero	molestia	animum et corpus molestiā līberāre	free mind and body from troubles	geest en lichaam bevrijden van narigheden	
+Cicero	navigare	hīs nāvibus Flaccus ex Asiā in Macedoniam nāvigāvit	Flaccus sailed from Asia Minor to Macedonia with these ships	met deze schepen is Flaccus van Klein‑Azië naar Macedonië gevaren	
+Cicero	nonne	nōnne satius est mūtum esse quam quod nēmō intellegat dīcere?	isn't it better to say nothing than to say something that no one understands?	is het niet beter niets te zeggen dan iets te zeggen, wat niemand begrijpt?	
+Cicero	nonnumquam	ingemīscere nōnnumquam virō concessum est	a man can sometimes heave a sigh	een man mag soms een zucht slaken	
+Cicero	num	num nostra culpa est?	it's not our fault is it?	het is toch onze schuld niet?	
+Cicero	num	mihi respondeās, num quis sit ausus	answer me when asked if (sometimes) someone has dared	antwoord me op de vraag, of (soms) iemand het gewaagd heeft	
+Cicero	optimates	contrā voluntātem omnium optimātium lēgem agrāriam ferēbat	against the will of all optimates he submitted the field law	tegen de wil van alle optimaten diende hij de akkerwet in	
+Cicero	ornare	virtūte ōrnātus adulēscēns	a virtuous young man	een deugdzame jonge man	
+Cicero	parumper	parumper conticuit	for a moment he was silent	even zweeg hij	
+Cicero	pervertere	jūs lībertātemque pervertere	destroy justice and liberty	het recht en de vrijheid vernietigen	
+Cicero	plane	ut plānius dīcam	to make it even clearer	om het nog duidelijker te formuleren	
+Cicero	plane	plānē assentior	I totally agree	ik ben het er volkomen mee eens	
+Cicero	portentum	portentīs dī immortālēs nōbīs futūra praedīcunt	by omens the immortal gods predict the future for us	door voortekenen voorspellen de onsterfelijke goden ons de toekomst	
+Cicero	portentum	duo reī pūblicae portenta	two dangerous individuals	twee staatsgevaarlijke individuen	
+Cicero	possessio	quis est cui nōn possessiō lībertātis sit cāra?	to whom is freedom not a precious possession?	voor wie is de vrijheid geen dierbaar bezit?	
+Cicero	praedicere	nōn omnia ēveniunt, quae praedicta sunt	Not everything predicted actually happens	niet alles wat voorspeld is gebeurt ook werkelijk	
+Cicero	praeditus	vir summō ingeniō praeditus	a rich talented man	een rijk getalenteerd man	
+Cicero	quisnam	quisnam tuēbitur memoriam mortuī?	who will keep the memory of the deceased alive?	wie zal de herinnering aan de overledene levendig houden?	
+Cicero	quoad	id quod suscēpī, quoad poterō, perferam	what I have undertaken, I will, as far as I can, accomplish	wat ik op me genomen heb, zal ik, voorzover ik kan, volbrengen	
+Cicero	quoad	cōnsul ea quae statuerītis, quoad vīvet, dēfendet	the consul will defend the decisions you have made while he lives	de consul zal, zolang hij leeft, de besluiten die ugenomen hebt verdedigen	
+Cicero	quoad	Siculī expulsī Rōmae fuērunt, quoad L. Metellus in prōvinciam profectus est	the expelled Sicilians stayed in Rome until Lucius Metellus left for the province	de verdreven Siciliërs verbleven te Rome, totdat Lucius Metellus naar de provincie vertrok	
+Cicero	renovare	Virtūtis templum renovātum est	the temple of Virtus has been restored	de tempel van Virtus is hersteld	
+Cicero	repugnare	omnibus meīs opibus repugnāvī crūdēlitātī	with all the means at my disposal I have resisted cruelty	met alle middelen die mij ten dienste stonden heb ik mij tegen wreedheid verzet	
+Cicero	repugnare	simulātiō amīcitiae repugnat maximē	hypocrisy is absolutely incompatible with friendship	huichelarij is absoluut onverenigbaar met vriendschap	
+Cicero	salvus	Juppiter vōs omnēs salvōs esse voluit	Jupiter has willed you all to be saved	Iuppiter heeft gewild, dat u allen behouden bleef	
+Cicero	sempiternus	patria vōbīs illum ignem Vestae sempiternum commendat	the fatherland entrusts to you that ever-burning fire of Vesta	het vaderland vertrouwt u dat altijdbrandende vuur van Vesta toe	
+Cicero	sitire	estne sitientī in bibendō voluptās?	does the thirsty enjoy when he drinks?	geniet de dorstige, wanneer hij drinkt?	
+Cicero	somnium	quis dīcere audeat vēra omnia esse somnia?	who would dare to say that all dreams are true?	wie zou durven beweren, dat alle dromen waar zijn?	
+Cicero	status	status ōrātōris erit rēctus et celsus	the attitude of the orator should be: erect and erect	de houding van de redenaar moet zijn: recht en hoog opgericht	
+Cicero	status	bonōrum statum ōdērunt	they hate the social position of the great ones	zij haten de sociale positie van de aanzienlijken	
+Cicero	status	optimus longē status cīvitātis est is, quem majōrēs nostrī relīquērunt	by far the best form of government is that which our ancestors handed down to us	verreweg de beste staatsvorm is die, welke onze voorouders ons hebben overgeleverd	
+Cicero	suspicari	nec Prōtagorās quicquam vidētur dē nātūrā deōrum suspicārī	it seems that Protagoras had no idea of ​​the nature of the gods	het schijnt, dat Protagoras zich geen enkele voorstelling maakte van het wezen der goden	
+Cicero	vendere	vēndō meum nōn plūrīs quam cēterī, fortasse etiam minōris	I don't sell my goods more expensive than others, maybe even cheaper	ik verkoop mijn waar niet duurder dan anderen, misschien zelfs goedkoper	
+Cicero	vetustas	pictūra ēgregia, sed jam ēvānēscēns vetustāte	a beautiful painting, but already faded by age	een prachtig schilderij, maar reeds verblekend door ouderdom	
+Cicero	vetustas	historia nūntia vetustātis	the historiography is the reporter of the old days	de geschiedschrijving is de berichtgeefster van de oude tijd	
+Horatius	acuere	juventūs audiet cīvēs acuisse ferrum	the youth will learn that citizens have sharpened the sword	de jeugd zal vernemen dat burgers het zwaard hebben gewet	
+Horatius	aeneus	turris aēnea	a bronze-clad tower	een met brons beslagen toren	
+Horatius	amoenus	nimium brevis flōrēs amoenae rosae	the lovely flowers of the short-blooming rose	de lieflijke bloemen van de te kort bloeiende roos	
+Horatius	animosus	rēbus angustīs animōsus atque fortis adpārē	show yourself proud and brave in oppressive circumstances	betoon u in benauwende omstandigheden fier en dapper	
+Horatius	apium	nectendīs apium corōnīs	eppe for braiding wreaths	eppe voor het vlechten van kransen	
+Horatius	apricus	cūr aprīcum ōdit Campum?	why does he avoid the sunny (Mars‑) field?	waarom mijdt hij het zonnig (Mars‑)veld?	
+Horatius	arbiter	arbiter pugnae	judge	kamprechter	
+Horatius	arbiter	quō nōn arbiter Hadriae major	a stronger commander of the Hadria than anyone else	een sterker gebieder van de Hadria dan wie ook	
+Horatius	arcanum	Jovis arcānīs admissus	admitted to Jupiter's secret deliberations	tot de geheime beraadslagingen van Juppiter toegelaten	
+Horatius	arrogans	sublīmī flagellō tange Chloēn semel arrogantem	hit Chloe once more with whip raised, cocky as she is	tref Chloë nog eenmaal met opgeheven zweep, verwaand als ze is	
+Horatius	avarus	semper avārus eget	the greedy always falls short	de hebzuchtige komt altijd te kort	
+Horatius	avitus	avītus fundus	an inherited estate	een geërfd landgoed	
+Horatius	barbitos	age dīc Latīnum, barbītē, carmen	well, sing, my greek lyre, now a latin song	wel, zing, mijn griekse lier, nu een Latijnse zang	
+Horatius	belua	saevīs inimīca virgō bēluīs	the virgin who is an enemy to the wild beasts	de maagd die voor de wilde dieren een vijand is	
+Horatius	calēre	nōn posthāc aliā calēbō fēminā	for another woman I will not burn in love again	voor een andere vrouw zal ik niet meer in liefde ontvlammen	
+Horatius	callidus	callidus, quicquid placuit, jocōsō condere fūrtō	handy at jokingly hijack and hide what he just wants	handig in het voor de grap wegkapen en verstoppen van wat hij maar wil	
+Horatius	caprea	sed prius Āpulīs jungentur capreae lupī	even sooner will the roe deer unite with Apulian wolves	nog eerder zullen de reeën zich met Apulische wolven verenigen	
+Horatius	catena	hunc frēnīs, hunc tū compesce catēnā	restrain him with reins, restrain him with a chain	bedwing hem met teugels, bedwing hem met een keten	
+Horatius	catulus	vīsast catulīs cerva fidēlibus	a doe has been seen by the loyal pack	er is een hinde gezien door de trouwe meute	
+Horatius	cithara	nōn āvium citharaeque cantūs somnum redūcent	neither the song of birds nor the sound of the lute will bring him back to sleep	gezang van vogels noch klanken van de luit zullen hem de slaap weer brengen	
+Horatius	columba	neque imbellem ferōcēs prōgenerant aquilae columbam	Nor do grim eagles bring forth a peaceful dove	evenmin brengen grimmige adelaars een vreedzame duif voort	
+Horatius	compescere	hunc frēnīs, hunc tū compesce catēnā	restrain him with reins, restrain him with a chain	bedwing hem met teugels, bedwing hem met een keten	
+Horatius	contrahere	sapienter īdem contrahēs ventō nimium secundō turgida vēla	you will also do well to reef the bulbous sails when the wind is too favorable	eveneens zul je er goed aan doen bij al te gunstige wind de bolle zeilen te reven	
+Horatius	cornix	aquae nisī fallit augur annōsa cornīx	if the old crow, who foretells rain, deceive me not	als de bejaarde kraai, die regen voorspelt, mij niet bedriegt	
+Horatius	cras	quid sit futūrum crās, fuge quaerere	don't ask what tomorrow will bring	vraag niet wat de dag van morgen brengen zal	
+Horatius	credulus	carpe diem quam minimum crēdula posterō	enjoy each day, counting as little as possible on the next one	geniet van elke dag, zo min mogelijk rekenend op de volgende	
+Horatius	cupressus	praeter invīsās cupressōs	except the hated cypresses	behalve de gehate cypressen	
+Horatius	cyathus	sūme, Maecēnās, cyathōs amīcī sospitis centum	drink, Maecenas, a hundred rummers on the rescue of your friend	drink, Maecenas, honderd roemers op de redding van je vriend	
+Horatius	damnum	flāgitiō additīs damnum	you add damage to the shame	jullie voegen aan de schande nog schade toe	
+Horatius	decens	decēns Venus	graceful Venus	bevallige Venus	
+Horatius	decens	quid vērum atque decēns	what is righteous and appropriate	wat oprecht en passend is	
+Horatius	decidere	celsae graviōre cāsū dēcidunt turrēs	when tall towers fall, they fall extra hard	als hoge torens vallen, vallen ze extra hard	
+Horatius	decorus	dulce et decōrum est prō patriā mōrī	it is sweet and honorable to die for the fatherland	het is zoet en eervol voor het vaderland te sterven	
+Horatius	decorus	meritā decōrus fronde	with a well-deserved laurel wreath	met een verdiende lauwerkrans getooid	
+Horatius	dimovēre	dimōvit obstantēs propinquōs	he pushed aside his loved ones who wanted to stop him	zijn naasten die hem wilden tegenhouden duwde hij opzij	
+Horatius	divum	an pauper sub dīvō moreris	or that your arm dwells on this sublunary	of dat je arm op dit ondermaanse verblijft	
+Horatius	divus	permitte dīvīs cētera	leave the rest to the gods	laat de rest aan de goden over	
+Horatius	extendere	agrōs extendere	expand his territory	zijn gebied uitbreiden	
+Horatius	fervidus	cum tē neque fervidus aestus dēmoveat lucrō neque hiems	as neither scalding heat can keep you from gain nor icy cold	daar jou noch gloeiende hitte van winst kan afhouden noch ijzige kou	
+Horatius	fidelis	est et fidēlī tūta silentiō mercēs	a reliable silence also awaits a safe wage	ook een betrouwbaar zwijgen wacht een veilig loon	
+Horatius	fidere	nīl pictīs timidus nāvita puppibus fīdit	the frightened sailor does not trust his beautifully painted ships	de bange zeeman vertrouwt niet op zijn mooi beschilderde schepen	
+Horatius	fundus	avītus fundus	an inherited estate	een geërfd landgoed	
+Horatius	genae	cūr mānat rāra meās lacrima per genās?	why do tears sometimes run down my cheeks?	waarom stromen er soms tranen over mijn wangen?	
+Horatius	gestire	fuge quō dēscendere gestīs	go where you want to descend so badly	ga waarheen je zo graag wilt afdalen	
+Horatius	heres	exstrūctīs in altum dīvitiīs potiētur hērēs	an heir will take care of your riches piled high	een erfgenaam zal zich over je hoog opgestapelde rijk­dommen ontfermen	
+Horatius	igneus	igneam aestātem	the scorching summer heat	de zengende zomerhitte	
+Horatius	impiger	quidquid arat impiger Āpulus	all that the industrious Apulian gathers with plows	al wat de nijvere Apuliër met ploegen verzamelt	
+Horatius	infamis	Danaī genus īnfāme	Danaus' infamous progeny	Danaus' beruchte nageslacht	
+Horatius	inicere	frēna licentiae injēcit	he put the reins on debauchery	hij legde de losbandigheid de teugels aan	
+Horatius	insanire	aut īnsānit aut versus facit	that man is either mad or he is making verses	die man is òf waanzinnig òf hij is verzen aan het maken	
+Horatius	insanus	īnsānōs amōrēs	frantic love	uitzinnige liefde	
+Horatius	inserere	quodsī mē lyricīs vātibus īnserēs	but if you will classify me among the lyric poets	maar als ge mij bij de lyrische dichters wilt indelen	
+Horatius	insolens	prius īnsolentem serva Brīsēis mōvit Achillem	before you the slave girl Briseis has won proud Achilles to herself	vóór u heeft het slavinnetje Briseis de trotse Achilles voor zich gewonnen	
+Horatius	insolens	īnsolēns laetitia	excessive joy	buitensporige vreugde	
+Horatius	intactus	intāctae Palladis urbem	the city of the pristine Pallas	de stad van de ongerepte Pallas	
+Horatius	intactus	quid intāctum nefāstī līquimus	what have we left untried in sin?	wat hebben wij aan zonden onbeproefd gelaten?	
+Horatius	invidus	invidus alterīus macrēscit rēbus opīmīs	a jealous person grows thin at the prosperity of another	een jaloers mens wordt mager bij de welvaart van een ander	
+Horatius	iterare	crās ingēns iterābimus aequor	tomorrow we will sail the vast sea again	morgen zullen wij opnieuw de onmetelijke zee bevaren	
+Horatius	lar	immolet aequīs hīc porcum Laribus	he can safely offer a pig to the gracious Laren	hij kan gerust aan de genadige Laren een varken offeren	
+Horatius	lascivus	puella dīves et lascīva	a rich and lively girl	een rijk en levenslustig meisje	
+Horatius	lavere	vīlla, flāvus quam Tiberis lāvit	the mansion, which is washed by the blond Tiber	het landhuis, dat door de blonde Tiber bespoeld wordt	
+Horatius	lenis	tū cēde potentis amīcī lēnibus imperiīs	yield to the meek commandments of a mighty friend	geef toe aan de zachtmoedige geboden van een machtig vriend	
+Horatius	lividus	nōs līvidus ōdit	he abhors us out of jealousy	hij verafschuwt ons uit jaloezie	
+Horatius	lucidus	Phoebe silvārumque potēns Diāna, lūcidum caelī decus	Phoebus and Diana, who reigns over the woods, shining ornament of heaven	Phoebus en Diana, die over de bossen heerst, lichtend sieraad van de hemel	
+Horatius	ludus	vertere sēriā lūdō	turn seriousness into jest	ernst in scherts doen overgaan	
+Horatius	ludus	nōluit in Flāvī lūdum mē mittere	he wouldn't send me to Flavius' school	hij wilde mij niet naar Flavius' school sturen	
+Horatius	lugubris	flūmina lūgubris ignāra bellī	rivers, unfamiliar with the mourning war	rivieren, onbekend met de rouwbrengende oorlog	
+Horatius	marinus	fīlius Thetidis marīnae	the son of the sea goddess Thetis	de zoon van de zeegodin Thetis	
+Horatius	matrona	ut mātrōna meretrīcī dispār erit	like a lady is different from a whore	zoals een dame verschilt van een hoer	
+Horatius	mitis	conditō mītis placidusque tēlō supplicēs audī puerōs, Apollō	put up your arrows, Apollo, and hear us, imploring lads, mild and gracious	berg uw pijlen op, Apollo, en hoor ons, smekende knapen, mild en genadig aan	
+Horatius	natalis	nātālis hōra	the hour of birth	het geboorteuur	
+Horatius	nebula	quod latus mundī nebulae malusque Juppiter urget	what part of the world is ravaged by mists and a bad climate	welk deel van de wereld door nevels en een slecht klimaat geteisterd wordt	
+Horatius	nitēre	neque ūnō lūnā rubēns nitet voltū	the red moon doesn't always shine with the same face	de rosse maan schijnt niet altijd met hetzelfde gelaat	
+Horatius	nodus	nōdō cohibēre crīnem	tie the hair together in a twist	de haren in een wrong samenbinden	
+Horatius	nota	sīve puer furēns impressit memorem dente labrīs notam	whether a passionate boy with his teeth left a lasting mark in your lips	hetzij een hartstochtelijke jongen met zijn tanden een blijvend teken in je lippen achterliet	
+Horatius	ocior	omnium versātur urna sērius ōcius sors exitūra	of all people the lot is shaken in the urn, destined to fall out sooner or later	van alle mensen wordt het lot in de urn geschud, bestemd om er vroeger of later uit te vallen	
+Horatius	opimus	invidus alterīus macrēscit rēbus opīmīs	a jealous person grows thin at the prosperity of another	een jaloers mens wordt mager bij de welvaart van een ander	
+Horatius	opprobrium	magnum pauperiēs opprobrium	the great shame that poverty is	de grote schande die de armoe is	
+Horatius	opprobrium	quaelibet in quemvīs opprobria fingere saevus	relentless in finding all possible swear words against anyone	meedogenloos in het vinden van alle mogelijke scheldwoorden tegen wie dan ook	
+Horatius	ornus	nec veterēs agitantur ornī	and the old ashes stand motionless	en roerloos staan de oude essen	
+Horatius	parcus	parcus deōrum cultor	a stingy worshiper of the gods	een karig vereerder der goden	
+Horatius	patiens	patiēns pulveris atque sōlis	toughened against the dust and heat of the sun	gehard tegen het stof en de hitte van de zon	
+Horatius	pauperies	magnum pauperiēs opprobrium	the great shame that poverty is	de grote schande die armoe is	
+Horatius	periurus	perjūrum fuit in parentem splendidē mendāx	she knew how to cheat her filthy father beautifully	zij wist haar vuige vader schitterend te bedriegen	
+Horatius	placare	carmine dī superī plācantur	song propitiates the gods	door een lied worden de goden gunstig gestemd	
+Horatius	promere	almē Sōl, currū nitidō diem quī prōmis	auspicious Sun, who makes the day appear on Your shining chariot	zegenrijke Zon, die op Uw glanzende wagen de dag doet verschijnen	
+Horatius	protervus	adhūc protervō crūda marītō	still too young for a rambunctious husband	nog te jong voor een onstuimig echtgenoot	
+Horatius	recidere	sī nōn suppliciō culpa recīditur	if the guilt is not cleared by punishment	als niet door een straf de schuld gedelgd wordt	
+Horatius	recludere	aequa tellūs pauperī reclūditur rēgumque puerīs	the earth opens as much to the poor as to the children of kings	de aarde opent zich evenzeer voor de arme als voor koningskinderen	
+Horatius	recreare	ubi nūlla arbor aestīva recreātur aura	where no tree is refreshed by a summer breeze	waar geen boom door een zomerbriesje wordt verkwikt	
+Horatius	reicere	rejectae patet jānua Lȳdiae	the door is open to the spurned Lydia	de deur staat open voor de versmade Lydia	
+Horatius	religare	Pyrrha, cui flāvam religās comam?	Pyrrha, who do you tie your blond hair up for?	Pyrrha, voor wie bind jij je blonde haren op?	
+Horatius	reparare	nē avītae tēcta velint reparāre Trojae	that they do not want to rebuild the houses of ancestral Troy	dat ze niet de huizen van het voorvaderlijk Troje weer willen opbouwen	
+Horatius	ritu	verba tempestātis rītū mōbilia	words changeable like the weather	woorden veranderlijk als het weer	
+Horatius	rosa	nimium brevis flōrēs amoenae rosae	the lovely flowers of the short-blooming rose	de lieflijke bloemen van de te kort bloeiende roos	
+Horatius	scandere	dum Capitōlium scandet pontifex	as long as the chief priest climbs the stairs of the Capitol	zolang de opperpriester de trappen van het Capitool beklimt	
+Horatius	senecta	Lātōe, dōnēs nōn turpem senectam dēgere	Son of Latona, grant that I may not live a shameful old age	Zoon van Latona, geef dat ik geen beschamende ouderdom zal beleven	
+Horatius	severus	dōna praesentīs cape laetus hōrae ac linque sevēra	seize joyfully the gifts of the moment and go beyond the cares	grijp vol vreugde de geschenken van het ogenblik en ga aan de zorgen voorbij	
+Horatius	silēre	sī chartae sileant quod bene fēcerīs, nōn mercēdem tuleris	if books hid your achievements, you wouldn't be rewarded	als boeken jouw prestaties zouden verzwijgen, dan zou jij niet beloond zijn	
+Horatius	sollicitus	tē pauper ambit sollicitā prece rūris colōnus	the poor tenant seeks your support with his anxious prayer	uw steun zoekt de arme pachter met zijn bekommerd gebed	
+Horatius	sospes	vix ūna sospes nāvis ab ignibus	hardly one ship escaped the flames	nauwelijks één schip aan de vlammen ontkomen	
+Horatius	spissus	spissae nemorum comae	the dense foliage of the forests	het dichte gebladerte van de wouden	
+Horatius	splendēre	Glycerae nitor splendentis Pariō marmore pūrius	the shiny skin of Glycera, which shines more pure than Parisian marble	de glanzende huid van Glycera, die zuiverder schittert dan Parisch marmer	
+Horatius	splendidus 	ō fōns Bandusiae splendidior vitrō	o source of Bandusia, more radiant than crystal	o bron van Bandusia, stralender dan kristal	
+Horatius	superstes	sī parcent puerō fāta superstitī	if fate will leave the boy alive	als het lot de jongen in leven zal laten	
+Horatius	terminus	quīcumque mundō terminus obstitit	all the limits set on the world	alle grenzen die aan de wereld zijn gesteld	
+Horatius	testudo	dictus et Amphīōn saxa movēre sonō testūdinis	it is said that Amphion also moved the stones by the sound of his lyre	men zegt dat ook Amphion door het geluid van zijn lier de stenen bewoog	
+Horatius	turbidus	Auster, dux inquiētī turbidus Hadriae	the south wind, the impetuous ruler of the restless Adriatic sea	de zuidenwind, de onstuimige heerser over de onrustige Adriatische zee	
+Horatius	turgidus	sapienter īdem contrahēs ventō nimium secundō turgida vēla	you will also do well to reef the bulbous sails when the wind is too favorable	eveneens zul je er goed aan doen bij al te gunstige wind de bolle zeilen te reven	
+Horatius	tutela	ō tūtēla praesēns Ītaliae dominaeque Rōmae	O thou who in person protects Italy and ruling Rome	o gij die in eigen persoon Italië en het heersende Rome beschermt	
+Horatius	uber	tua, Caesar, aetās frūgēs agrīs rettulit ūberēs	Your time, Caesar, has brought forth abundant fruit in the fields	Uw tijd, Caesar, heeft aan de akkers weer overvloedige vruchten gegeven	
+Horatius	ultra	nihil ultrā nervōs atque cutem mortī concesserat ātrae	he had given up nothing to the black death but his muscles and skin	hij had aan de zwarte dood niets afgestaan dan zijn spieren en huid	
+Horatius	ung(u)ere	arma nōndum expiātīs ūncta cruōribus	weapons smeared with blood that have not yet been atoned for	wapens besmeurd met bloed waarvoor nog geen boete is gedaan	
+Horatius	unguentum	hūc vīna et unguenta ferre jubē	bring wine and incense here	laat wijn en reukwerk hierheen brengen	
+Horatius	urna	omnium versātur urna sērius ōcius sors exitūra	of all people the lot is shaken in the urn, destined to fall out sooner or later	van alle mensen wordt het lot in de urn geschud, bestemd om er vroeger of later uit te vallen	
+Horatius	utcumque	ībimus, utcumque praecēdēs	we will go whenever you go ahead	wij zullen gaan, wanneer jij ook maar zult voorgaan	
+Horatius	virēre	dumque virent genua	as long as the knees are strong	zolang de knieën krachtig zijn	
+Livius	aliquot	M. Volscius Fictor ante aliquot annōs tribūnus plēbis fuerat	Marcus Volscius Fictor had been a people's tribune a few years earlier	Marcus Volscius Fictor was een paar jaar daarvoor volkstribuun geweest	
+Livius	augustus	miscendō hūmāna dīvīnīs prīmōrdia urbium augustiōra facit	by linking human deeds to divine deeds he gives more cachet to the earliest history of cities	door menselijke daden te koppelen aan goddelijke daden geeft hij meer cachet aan de vroegste geschiedenis van steden	
+Livius	circa	īnfēsta omnia circā erant	everything around them was terrifying	alles om hen heen was angstaanjagend	
+Livius	comitia	comitiīs cōnsulāribus habitīs in hībernā rediit	after holding the consular elections he returned to the winter camp	na het houden van de consulsverkiezingen keerde hij terug naar het winterkamp	
+Livius	communire	spatium castra commūniendī nōn erat	there was no time to build a fortified camp	er was geen tijd om een versterkt kamp aan te leggen	
+Livius	compellere	in castra pavidī compelluntur	fearful they are herded into the camp	angstig worden zij in het kamp bijeengedreven	
+Livius	concitare	īrās hominum concitāvit	he knew how to arouse the wrath of the people	hij wist de woede van de mensen op te wekken	
+Livius	concursus	prīmō concursū rēs Rōmāna superior fuit	in the first collision, the Romans' strength proved to be the greatest	bij de eerste botsing bleek de kracht van de Romeinen het grootst	
+Livius	confestim	cōnfestim cōnsul Tiberim trānsit	hastily the consul crosses the Tiber	haastig steekt de consul de Tiber over	
+Livius	decemviri	nepōs ejus decemvir lēgibus scrībendīs fuerat	his grandson had been a member of the college charged with drafting laws	zijn kleinzoon was lid geweest van het kollege belast met het opstellen van wetten	
+Livius	delēre	omnēs ad dēlendam stimulābat Carthāginem	he urged all to destroy Carthage	hij drong bij allen aan op de verwoesting van Carthago	
+Livius	edicere	cēnsōribus creandīs comitia ēdicta sunt	Elections have been declared to elect censors	er zijn verkiezingen afgekondigd voor het kiezen van censoren	
+Livius	efferare	prōmissa barba et capillī efferāverant speciem ōris	their long beards and long hair had given their faces a fierce expression	hun lange baard en lange haren hadden hun gelaat een woeste uitdrukking gegeven	
+Livius	foris	omnia tranquilla foris erant	outside Rome everything was quiet	buiten Rome was alles rustig	
+Livius	indignari	Rōmānī indignābantur quod victōribus vīctī īnferrent arma	the Romans were outraged that the vanquished took up arms against their conquerors	de Romeinen waren verontwaardigd over het feit dat de overwonnenen de wapenen opnamen tegen hun overwinnaars	
+Livius	inquirere	inquīrendō cognōvit ad Volturnum hostēs sēdēre	by inquiry he found out that the enemies were encamped by the river Volturnus	door navraag kwam hij er achter dat de vijanden bij de rivier de Volturnus gelegerd waren	
+Livius	insuper	hiems etiam īnsuper rēbus gerendīs intervenit	moreover, winter also hindered warfare	bovendien verhinderde ook de winter nog de oorlogvoering	
+Livius	intestinus	bellō intestīnō bellum externum prōpulsātūrī estis?	do you think you can avoid a war with the enemies by civil war?	denken jullie door een burgeroorlog een oorlog met de vijanden te kunnen vermijden?	
+Livius	iumentum	paucōs diēs ad requiem jūmentōrum morātus est	he paused for a few days to give the beasts of burden a rest	hij pauzeerde enige dagen om de lastdieren rust te geven	
+Livius	militare	mīlitantī in Hispāniā pater eī moritur	while serving in Spain his father dies	wijl hij dienst doet in Spanje overlijdt zijn vader	
+Livius	momentum	id tum maximum mōmentum ad victōriam fuit	this was the deciding factor for the win	dit gaf toen de doorslag voor de overwinning	
+Livius	momentum	intrā vallum mōmentō temporis compelluntur	in a short time they are herded into the shore	in korte tijd worden ze binnen de wal bijeengedreven	
+Livius	montanus	captīvōs montānōs vīnctōs in mediō statuit	he placed the captive mountain dwellers shackled in the center	hij plaatste de gevangen bergbewoners geboeid in het midden	
+Livius	nequāquam	bellum nēquāquam contemnendum in Siciliā orta est	a war broke out in no small part in Sicily	op Sicilië brak een bepaald niet onbetekenende oorlog uit	
+Livius	occasio	numquam tālis occāsiō līberandae Hispāniae fuit	never was there such a good opportunity to liberate Spain	nooit was er zo'n goede gelegenheid om Spanje te bevrijden	
+Livius	occasus	sub occāsum sōlis urbem ingressī sunt	at sunset they entered the city	tegen zonsondergang trokken ze de stad binnen	
+Livius	onerarius	nāvēs onerāriae ad octōgintā captae sunt	about 80 cargo ships were captured	er werden ongeveer 80 vrachtschepen buitgemaakt	
+Livius	orator	ōrātōrēs dē pāce ad cōnsulem mīsērunt	they sent peace negotiators to the consul	ze zonden vredesonderhandelaars naar de consul	
+Livius	patricius	cavēbant nē cui patriciō plēbēī magistrātūs patēbant	they saw to it that no offices reserved for the plebs were open to a patrician	ze zagen er op toe dat voor een patriciër geen ambten openstonden die voor de plebs waren gereserveerd	
+Livius	peregrinus	urbāna Sergiō, peregrīna jūrisdictiō Minuciō obtigit	the jurisdiction over the Romans fell to Sergius, that over Romans and foreigners to Minucius	de rechtspraak over de Romeinen viel toe aan Sergius, die over Romeinen en vreemdelingen aan Minucius	
+Livius	perinde	perinde ac vīctō eī lēgēs dīxērunt	they enjoined him as if he were vanquished	ze legden hem wetten op alsof hij een overwonnene was	
+Livius	plebeius	duōs plēbēiōs cōnsulēs creārī licet	two consuls may be elected from the plebs	er mogen twee consuls uit de plebs gekozen worden	
+Livius	prae	cultrum mānantem cruōre prae sē tenuit	he held a knife dripping with blood in his outstretched hand	hij hield een mes dat droop van bloed in zijn uitgestrekte hand	
+Livius	prae	silentium prae metū cēterōrum fuit	out of fear the others kept quiet	uit angst hielden de anderen zich stil	
+Livius	praeterquam	praeterquam quod Rōmānīs suō nōmine auxilia pollicitus erat	apart from the fact that he had promised help to the Romans on his own responsibility	afgezien van het feit dat hij op eigen verantwoording de Romeinen hulp beloofd had	
+Livius	prodigium	eōdem annō prōdigia aliquot vīsa nūntiātaque sunt	in the same year quite a few omens were spotted and reported	in hetzelfde jaar zijn nogal wat voortekens gesignaleerd en gerapporteerd	
+Livius	prolabi	signum sponte suā prōlāpsum est	the image fell forward by itself	het beeld viel vanzelf voorover	
+Livius	promulgare	lēgem agrāriam prōmulgāvērunt	they proclaimed a field law	ze maakten een akkerwet bekend	
+Livius	proripere	accēnsūs īrā domō sēsē prōripuit	in anger he stormed out of his house	in woede stormde hij zijn huis uit	
+Livius	provocatio	plēbem prōvocātiōne firmāvērunt	they strengthened the power of the plebs by establishing the right of provocatio	zij versterkten de macht van de plebs door het recht van provocatio in te stellen	
+Livius	provocare	prōvocō ad populum	I ask the people for support	ik vraag het volk om steun	
+Livius	raptim	cōpiās raptim ēdūxit	he sent out the troops in haste	hij liet de troepen ijlings uitrukken	
+Livius	receptus	receptuī canī jussit	he gave the order to blow the retreat	hij gaf het bevel om de terugtocht te blazen	
+Livius	secessio	per sēcessiōnem plēbis cōnsulātum iniērunt	they were able to hold the consulate thanks to the fact that the plebs broke off cooperation with the patricians	ze konden het consulaat bekleden dank zij het feit dat de plebs de samenwerking met de patriciërs verbrak	
+Livius	sedare	sēdābant tumultūs	they put an end to the riots	zij maakten een eind aan de onlusten	
+Livius	strages	ingentem strāgem dedērunt	they inflicted a gigantic slaughter	ze richtten een reusachtige slachting aan	
+Livius	suffragium	tribus in suffrāgium mīsit	he sent the tribus away to cast their vote	hij stuurde de tribus weg om hun stem uit te brengen	
+Livius	tabes	cadāvera intācta ā canibus tābēs absūmēbat	the corpses the dogs hadn't touched rotted away	de lijken die de honden niet hadden aangeraakt rotten weg	
+Livius	tribunicius	tribūnīcia potestās	the jurisdiction of the Tribune	de bevoegdheid van de tribuun	
+Lucretius	animans	dissipat in corpus sēsē cibus omne animāntum	the food spreads over the whole body of the living beings	het voedsel verspreidt zich over het gehele lichaam der levende wezens	
+Lucretius	avēre	plānē rēs expōnere avēmus	we wish to set out the facts clearly	wij wensen de feiten duidelijk uiteen te zetten	
+Lucretius	calidus	fōns lūce diurnā frīgidus et calidus nocturnō tempore	a well that is cool during the day and warm at night	een bron die overdag koel is en 's nachts warm	
+Lucretius	calīgo	in noctis caecā cālīgine	in the impenetrable darkness of the night	in de ondoordringbare duisternis van de nacht	
+Lucretius	cassus	verbōrum cōpia cassa	a meaningless multitude of words	een inhoudsloze veelheid van woorden	
+Lucretius	cassus	in cassum	in vain	tevergeefs	
+Lucretius	caulae	per caulās corporis omnēs	through all the pores of the body	door alle poriën van het lichaam	
+Lucretius	cluēre	quaecumque cluent	all things that have a name, all that there is	alle dingen die een naam hebben, alles wat er is	
+Lucretius	conciliare	corpora māteriae conciliantur ita ut dēbent animālia gignī	the material elements combine in the same way that living entities naturally arise	de stoffelijke bestanddelen verbinden zich op dezelfde wijze als waarop levende wezens van nature ontstaan	
+Lucretius	confundere	corporis atque animī pergit cōnfundere sēnsūs	it disrupts the perceptions of body and soul	het verstoort de waarnemingen van lichaam en ziel	
+Lucretius	crassus	cālīgō crassa	a dense darkness	een dichte duisternis	
+Lucretius	degere	placidum dēgunt aevum vītamque serēnam	they lead a peaceful life and a quiet life	zij leiden een vredig bestaan en een rustig leven	
+Lucretius	didere	cibus in artūs dēditur omnēs	the food penetrates all body parts	het voedsel dringt door in alle lichaamsdelen	
+Lucretius	discutere	discussīs errōribus	after shaking off the errors	na de dwalingen van zich afgeschud te hebben	
+Lucretius	distare	color et faciēs hominum distāre videntur	we see that skin color and appearance of people differ	we zien dat huidskleur en uiterlijk van de mensen verschilt	
+Lucretius	elementa	multa elementa vidēs multīs commūnia verbīs	you see that many words have many letters in common	je ziet dat veel woorden veel letters gemeen hebben	
+Lucretius	elementa	impia ratiōnis elementa	the principles of a wicked doctrine	de beginselen van een goddeloze leer	
+Lucretius	exoriri	terrīs exoriuntur	they come forth from the earth	zij komen te voorschijn uit de aarde	
+Lucretius	exstare	aqua quaecumque in nūbibus exstat	all the water that is in the clouds	al het water dat zich in de wolken bevindt	
+Lucretius	foramen	vōx per flexa forāmina rērum incolumīs trānsīre potest	the voice can penetrate unimpeded through the twisting openings in things	het stemgeluid kan ongehinderd doordringen door de bochtige openingen in de dingen	
+Lucretius	funditus	perspicere rēs gestās funditus omnēs	see through all events completely	alle gebeurtenissen geheel en al doorzien	
+Lucretius	genitalis	genitālis orīgō terrārum et caelī	the beginning, when heaven and earth came into existence	het begin, toen hemel en aarde ontstonden	
+Lucretius	genitalis	genitālī conciliō arcērī tempore inīquō	be prevented from a life-giving union, because the time is not suitable for it	van een levenwekkend samengaan weerhouden worden, omdat de tijd daarvoor niet geschikt is	
+Lucretius	gestus	vōcibus et gestū significāre	to indicate with word and gesture	met woord en gebaar te kennen geven	
+Lucretius	icere	equus pinnigerī saevit calcāribus ictus Amōris	the horse goes wild, struck by the tracks of the winged Amor	het paard gaat wild te keer, getroffen door de sporen van de gevleugelde Amor	
+Lucretius	imus	pectore ab īmō	from the bottom of his heart	uit de grond van zijn hart	
+Lucretius	inane	lūmenque serēnum nōn per ināne meat vacuum	the bright light does not pass through an empty space	het heldere licht gaat niet door een lege ruimte	
+Lucretius	insinuare	multa per ipsās īnsinuant nārēs īnfēsta	many harmful substances penetrate even through the nose	zelfs door de neus dringen veel schadelijke stoffen binnen	
+Lucretius	latex	intereā perpōtat amārum absinthī laticem	meanwhile he drinks the bitter wormwood	intussen drinkt hij de bittere alsem	
+Lucretius	meare	lūmenque serēnum nōn per ināne meat vacuum	the bright light does not pass through an empty space	het heldere licht gaat niet door een lege ruimte	
+Lucretius	nares	multa per ipsās īnsinuant nārēs īnfēsta	harmful substances penetrate even through the nose	zelfs door de neus dringen schadelijke stoffen binnen	
+Lucretius	nativus	haec mortālia cernimus esse et nātīva simul	we see that this is mortal and also ever born	wij zien dat dit sterfelijk is en eveneens ooit geboren	
+Lucretius	nimirum	nīmīrum quia nōn cognōvit quae sit habendī fīnis	of course because he has not understood what the limit is to possession	uiteraard omdat hij niet heeft begrepen wat de grens is aan het bezit	
+Lucretius	notare	variā rēs vōce notāvit	he gave things different names	hij gaf de dingen verschillende namen	
+Lucretius	opinari	vērum, ut opīnor, ita est	the truth is, I believe, thus	de waarheid is, naar ik meen, aldus	
+Lucretius	pactum	quō pactō	how	hoe	
+Lucretius	peremere	genus hūmānum jam tum foret omne perēmptum	the human race would have been completely wiped out by then	het menselijk geslacht zou toen al geheel en al uitgeroeid zijn	
+Lucretius	perpetuo	perpetuōque fluunt ab rēbus odōrēs	things constantly secrete smell	voortdurend scheiden de dingen geur af	
+Lucretius	plaga	fugiunt summissō corpore plāgās	huddled together they dodge the blows	ineengedoken ontwijken zij de slagen	
+Lucretius	primordia	rērum prīmōrdia	the particles that make up the	de deeltjes waaruit de dingen zijn opgebouwd	
+Lucretius	privare	pereunt aevō prīvātā futūrō	they perish, deprived of any further life	zij komen om, beroofd van enig verder leven	
+Lucretius	privus	in diēs prīvōs	every day again	elke dag opnieuw	
+Lucretius	replēre	montēs gemitū silvāsque replēbat	he filled mountains and forests with his wails	hij vervulde bergen en bossen met zijn gejammer	
+Lucretius	restare	vītae minus et minus undique restat	there is less and less life left everywhere	er blijft overal steeds minder leven over	
+Lucretius	scindere	scindunt hominem cūrae	worries tear people apart	zorgen verscheuren de mens	
+Lucretius	secernere	terrās ac mare sēcernunt	they separate the land and the sea	zij scheiden het land en de zee	
+Lucretius	serenus	lūmenque serēnum nōn per ināne meat vacuum	the bright light does not pass through an empty space	het heldere licht gaat niet door een lege ruimte	
+Lucretius	serenus	placidum dēgunt aevum vītamque serēnam	they lead a peaceful life and a quiet life	zij leiden een vredig bestaan en een rustig leven	
+Lucretius	sucus	nec cruor in lignīs neque saxīs sūcus inesse queunt	There can be no blood in wood and no juice in stones	er kan in hout geen bloed en in stenen geen sap zitten	
+Lucretius	suppeditare	omnia suppeditat nātūra	nature provides everything in abundance	de natuur verschaft alles in overvloed	
+Lucretius	suppeditare	neque cūr faciant dīcere suppeditat	it is impossible to say why they make them	het is niet mogelijk te zeggen waarom ze die maken	
+Lucretius	suavis	incussit suāvem mī in pectus amōrem mūsārum	he brought the sweet love for the muses into my heart	hij bracht de zoete liefde voor de muzen in mijn hart	
+Lucretius	tactus	tāctūs enim lētī satis esset causa	because the touch alone would be a cause of death	want alleen de aanraking al zou een doodsoorzaak zijn	
+Lucretius	umor	ūmōrem quīcumque putārunt fingere rēs ipsum per sē	all who thought that only moisture shapes things	allen die dachten dat uitsluitend vocht de dingen vormt	
+Lucretius	vagari	quārē mors immātūra vagātur?	why does death haunt prematurely?	waarom waart de dood voortijdig rond?	
+Ovidius	admovēre	hīs prōmissīs spēs est admōtā recursus	these promises awakened the hope of return	door deze beloften werd de hoop op terugkeer gewekt	
+Ovidius	atrium	ignibus ātria fūmant	the house is full of smoke from the flames	het huis is vol rook door de vlammen	
+Ovidius	captare	pōma fugācia captat Tantalus	Tantalus reaches for the ever receding fruits	Tantalus reikt naar de steeds wijkende vruchten	
+Ovidius	conciēre	verba, quae concita flūmina sistant	words that can stop dammed up rivers	woorden, die opgestuwde rivieren kunnen stuiten	
+Ovidius	emicare	ēmicuit nervō penetrābile tēlum	away from the string flew the all-piercing arrow	weg van de pees vloog de alles doorborende pijl	
+Ovidius	fulvus	fulvōs vehit unda leōnēs	the wave drags ruddy lions along	de golf sleurt rossige leeuwen mee	
+Ovidius	fumare	ignibus ātria fūmant	the house is full of smoke from the flames	het huis is vol rook door de vlammen	
+Ovidius	infra	sōl nōn admittitur īnfrā	the sun doesn't penetrate below	de zon dringt daaronder niet door	
+Ovidius	lacertus	inque patris blandīs haeret cervīce lacertīs	she wraps her arms flattering around her father's neck	zij slaat de armen vleiend rond haar vaders nek	
+Ovidius	laniare	laniāta comās	as she pulled her hair out	terwijl zij zich de haren uit het hoofd trok	
+Ovidius	limes	trahēns spatiōsō līmite crīnem stēlla micat	dragging its tail along a wide orbit the comet shines	over een brede baan zijn staart meeslepend schittert de komeet	
+Ovidius	lorum	lōra remīsit	he let go of the reins	hij liet de teugels schieten	
+Ovidius	madēre	lacrimīs madent genae	her cheeks are wet with tears	haar wangen zijn nat van tranen	
+Ovidius	mollire	lavam pollice cēram mollībat	he softened the yellow wax with his thumb	hij maakte de gele was zacht met zijn duim	
+Ovidius	orbus	ā totidem natis orba est āque virō	she has been deprived of as many children and of her husband	zij is beroofd van evenveel kinderen én van haar man	
+Ovidius	procus	Helena nōn plūribus est sollicitāta procīs	even Helena's hand is not sought by more worshippers	zelfs naar Helena's hand is niet door meer aanbidders gedongen	
+Ovidius	rudis	nōn exācta satis rudibusque simillima signīs	not yet finished, similar to images in the making	nog niet af, lijkend op beelden in wording	
+Ovidius	rudis	artis adhūc rude vulgus erat	the people were still unfamiliar with technical skills	het volk was nog onbekend met technische vaardigheden	
+Ovidius	sceleratus	factō pius et scelerātus eōdem	good and bad at the same time by one and the same act	door een en dezelfde daad tegelijk goed en slecht	
+Ovidius	stupēre	māter ad audītās stupuit ceu saxea vōcēs	the mother was petrified when he heard these words	de moeder stond als versteend bij het horen van deze woorden	
+Ovidius	subdere	sē attollit, modo subdit aquīs	he rises above the water, then he dives again	hij verheft zich boven het water, dan weer duikt hij onder	
+Ovidius	subdere	ingeniō stimulōs subdere fāma solet	usually fame excites the talent	gewoonlijk prikkelt roem het talent	
+Ovidius	totidem	cum mātre est totidem, totidem cum conjuge mēnsēs	she is with her mother as many months as with her husband	ze is evenveel maanden bij haar moeder als bij haar man	
+Ovidius	virga	tetigit summōs virgā dea dīra capillōs	the cruel goddess touched our crown with her staff	de wrede godin raakte onze kruin aan met haar staf	
+Sallustius	abunde	hominēs quibus mala abundē omnia erant	people who were overwhelmed by all possible difficulties	mensen die overstelpt waren door alle mogelijke moeilijkheden	
+Sallustius	acceptus	cārus acceptusque semper eī fuerat	he had always been dear to him and had favored him	hij was hem altijd dierbaar geweest en had bij hem in de gunst gestaan	
+Sallustius	advocare	contiōne advocātā ōrātiōnem habuit	after calling a meeting, he gave a speech	nadat hij een vergadering bijeengeroepen had, hield hij een toespraak	
+Sallustius	antecapere	Rutilium praemīsit utī locum castrīs antecaperet	he sent Rutilius ahead to already occupy a place for a camp	hij zond Rutilius vooruit om alvast een plaats te bezetten voor een kamp	
+Sallustius	antecapere	noctem antecapere	don't wait for the night	de nacht niet afwachten	
+Sallustius	antevenire	exercitum Metellī antevēnit	he arrived before the army of Metellus	hij kwam eerder aan dan het leger van Metellus	
+Sallustius	antevenire	cōnsilia et īnsidiās antevēnit	he was ahead of their plans and ambushes	hij was hun plannen en hinderlagen voor	
+Sallustius	cadaver	cadāveribus omnia complentur	everything is full of corpses	alles ligt vol met lijken	
+Sallustius	citerior	Hispānia citerior	(the part of Spain that is closer to Rome)	(het gedeelte van Spanje dat dichterbij Rome ligt)	
+Sallustius	conflare	aes aliēnum grande cōnflāverat	he had incurred huge debts	hij had enorme schulden gemaakt	
+Sallustius	coniurare	contrā rempūblicam conjūrāvērunt	they are plotting against the state	zij zetten een samenzwering op tegen de staat	
+Sallustius	considerare	perīcula cōnsīderāre	consider the dangers	de gevaren overwegen	
+Sallustius	consultum	senātūs cōnsultum (SC)	a decision of the senate	een besluit van de senaat	
+Sallustius	convincere	hominēs tantī facinoris convictī	people who have been found guilty of such a serious crime	mensen die aan een zo zware misdaad schuldig zijn bevonden	
+Sallustius	deprehendere	praetōribus imperat ut Allobrogum comitātūs dēprehenderent	he ordered the praetors to arrest the Allobrogen with their escorts	hij beval de praetoren om de Allobrogen met hun begeleiders te arresteren	
+Sallustius	desidia	bonum ōtium dēsidiā conterere	wasting his precious free time in idleness	zijn kostbare vrije tijd in ledigheid verdoen	
+Sallustius	designare	cōnsul dēsignātus	the consul, elected for the following year	de consul, gekozen voor het volgende jaar	
+Sallustius	diffidere	Jūrgurtha diffīdere suīs rēbus	Jurgurtha was not confident in his position	Iurgurtha had geen vertrouwen in zijn positie	
+Sallustius	egestas	Catilīna alium egestātis, alium cupiditātis admonēbat	C. reminded some of their poverty, others of their lust	C. herinnerde sommigen aan hun armoede, anderen aan hun begeerte	
+Sallustius	eminus	mīlitēs tēla ēminus missa remīsērunt	the soldiers threw back the spears that had been thrown at them from a distance	de soldaten wierpen de speren, die van een afstand naar hen geworpen waren, terug	
+Sallustius	exsilium	Catilīna Massiliam in exsilium profectus est	Catiline left for Marseille as an exile	Catilina vertrok als balling naar Marseille	
+Sallustius	formidolosus	tālibus vīrīs nōn armātus hostis formīdolōsus erat	such men instilled no fear in an armed foe	zulke mannen boezemde een gewapende vijand geen vrees in	
+Sallustius	fretus	Adherbal frētus multitūdine armātōrum parābat armīs contendere	relying on the large number of soldiers, Adherbal prepared to engage in battle	vertrouwend op het grote aantal soldaten, trof Adherbal voorbereidingen om slag te leveren	
+Sallustius	fugare	Numidās caedere, fundere atque fugāre	kill, disperse and flee the Numidians	de Numidiërs doden, uiteenslaan en op de vlucht jagen	
+Sallustius	ignoscere	acceptā injūriā ignōscere quam persequī mālēbant	when wronged was done to them, they would rather forgive than take revenge for it	wanneer hun onrecht was aangedaan, vergaven zij dat liever dan dat zij daarvoor wraak namen	
+Sallustius	imitari	majōrēs nostrī, Graecum mōrem imitātī, verberibus animadvertēbant in cīvēs	our ancestors, following the Greek custom, punished their fellow citizens with lashes	onze voorouders bestraften, in navolging van de Griekse gewoonte, hun medeburgers met zweepslagen	
+Sallustius	immoderatus	ille ēgregius adulēscēns immoderātae fortitūdinis morte poenās dedit	that fine young man has paid with death for his extraordinary bravery	die voortreffelijke jonge man heeft met de dood geboet voor zijn buitengewone dapperheid	
+Sallustius	immutare	rēs pūblica paulātim immūtāta ex pulcherrimā atque optimā pessima ac flāgitiōsissima facta est	the state, by a gradual change from very beautiful and good, has become very bad and depraved	de staat is door een geleidelijke verandering van zeer schoon en goed zeer slecht en verdorven geworden	
+Sallustius	indicare	dē conjūrātiōne indicāvit	he gave information about the conspiracy	hij gaf inlichtingen over de samenzwering	
+Sallustius	industria	Metellus nātūram ipsam cēterīs imperitantem industria vīcerat	Metellus had conquered nature itself, which dictates the law to others, by his energetic action	Metellus had de natuur zelf, die anderen de wet voor­schrijft, door zijn energiek optreden overwonnen	
+Sallustius	insolitus	tālibus vīrīs nōn labor īnsolitus erat	for such men no effort was uncommon	voor dergelijke mannen was geen inspanning ongewoon	
+Sallustius	insolitus	pars cīvitātis īnsolita rērum bellicārum lībertātī timēbat	part of the bourgeoisie, unfamiliar with war affairs, was concerned about freedom	een deel van de burgerij, dat niet vertrouwd was met oorlogsaangelegenheden, maakte zich zorgen om de vrijheid	
+Sallustius	kalendae	ante diem sextum kalendās Novembrēs	the sixth day before the Kalends of November (27th October)	27 oktober	
+Sallustius	largiri	Caesar dandō, Catō nihil largiundō glōriam adeptus est	Caesar gained great esteem by giving gifts, Cato by never presenting anything	Caesar verwierf zich groot aanzien door geschenken te geven, Cato door nooit iets cadeau te doen	
+Sallustius	liberalis	laudis avidī pecūniae līberālēs erant	they were greedy for fame, generous with money	zij waren begerig naar roem, vrijgevig met geld	
+Sallustius	magnificus	incēdunt per ōra vestra magnificī	before your eyes they walk in all their splendor	voor uw ogen schrijden zij in al hun luister voort	
+Sallustius	mansuetudo	Caesar mānsuētūdine et misericordiā clārus factus est	Caesar has become famous for his leniency and his compassion	Caesar is beroemd geworden door zijn mildheid en zijn mededogen	
+Sallustius	maturare	Albīnus commeātum mātūrat in Āfricam portāre	Albinus rushes to transfer food supplies to Africa	Albinus haast zich voedselvoorraden naar Africa over te brengen	
+Sallustius	misereri	Umbrēnum ōrāvērunt ut suī miserērētur	they begged Umbrenus to have pity on them	zij smeekten Umbrenus om medelijden met hen te hebben	
+Sallustius	munimentum	ratī noctem sibi mūnīmentō fore	assuming the night would protect them	in de veronderstelling dat de nacht hun bescherming zou bieden	
+Sallustius	necessitudo	necessitūdō mē hortātur, quae etiam timidōs fortēs facit	need, which makes even the faint of heart brave, is a spur to me	de nood, die zelfs vreesachtigen dapper maakt, vormt voor mij een aansporing	
+Sallustius	obnoxius	eīs obnoxiī fuimus, quibus, sī rēs pūblica valēret, formīdinī essēmus	we depended on those people whom, if the state were healthy, we would instill fear	wij waren afhankelijk van die mensen aan wie wij, als de staat gezond was, angst zouden inboezemen	
+Sallustius	obtestari	monet atque obtestātur eōs utī sē dēfendant	he exhorts them and conjures them to defend him	hij spoort hen aan en bezweert hen om hem te verdedigen	
+Sallustius	pactio	cum hostibus pactiōnēs fēcerant	they had made agreements with the enemies	zij hadden met de vijanden overeenkomsten gesloten	
+Sallustius	pendere	sua parvī pendēre, aliēna cupere	deeming one's own property of little value, coveting that of others	het eigen bezit van weinig waarde achten, dat van anderen begeren	
+Sallustius	pendere	nihil pēnsī habēre	don't care about anything	zich nergens iets van aan trekken	
+Sallustius	penes	dīvīna et hūmāna omnia penes paucōs erant	all divine and human affairs were in the hands of few	alle goddelijke en menselijke zaken waren in handen van weinigen	
+Sallustius	penuria	Adherbal intellegit pēnūria rērum necessāriārum bellum trahī nōn posse	Adherbal sees that the war can no longer be continued due to the lack of necessities	Adherbal ziet in dat de oorlog niet langer voortgezet kan worden door het gebrek aan levensbenodigdheden	
+Sallustius	pravus	ā bonō honestōque in prāvum abstractus est	after initially being good and respectable, he went astray	nadat hij aanvankelijk goed en respectabel geweest was, raakte hij op het slechte pad	
+Sallustius	privatim	Allobrogēs pūblicē prīvātimque aere aliēnō oppressī erant	the Allobrogen were weighed down by both personal and government debt	de Allobrogen gingen gebukt zowel onder persoonlijke als onder staatsschulden	
+Sallustius	probrum	cēnsōrēs eum probrī grātia senātū mōverant	the censors had kicked him out of the senate for disgraceful conduct	de censors hadden hem wegens schandelijk gedrag uit de senaat gezet	
+Sallustius	rapinae	plērōsque ad bellum spēs rapīnārum inlēxerat	very many were enticed to war by hope of plunder	zeer velen waren door hoop op plundering tot de oorlog verlokt	
+Sallustius	secus 	secus prōcēdit	it turns out differently	het pakt anders uit	
+Sallustius	solitudo	modo adversum hostēs, interdum in sōlitūdinēs pergere	now he went up against the enemies, now he went into the desert	nu eens trok hij op tegen de vijanden, dan weer trok hij de woestijn in	
+Sallustius	spoliare	Jūrgurtha armīs virīsque et pecūniā spoliātus est	Iugurtha was robbed of weapons, men and money	Iugurtha werd beroofd van wapens, manschappen en geld	
+Sallustius	sumptus	dīvitiīs et sūmptibus cum majōribus suīs contendunt 	in wealth and prodigality they compete with their ancestors	in rijkdom en verkwisting wedijveren zij met hun voorouders	
+Sallustius	transversus	hostēs trānsversīs proeliīs iter remorātī sunt	the enemies slowed the advance by attacks in the flank	de vijanden vertraagden de opmars door aanvallen in de flank	
+Sallustius	tutari	fīnēs meōs adversum armātōs armīs tūtātus sum	I have defended my territory against armed force of arms	ik heb mijn gebied tegen gewapenden gewapenderhand verdedigd	
+Sallustius	venalis	Rōmae omnia vēnālia sunt	in Rome everything can be bought for money	in Rome is alles voor geld te koop	
+Sallustius	vinea	vīneās agere	bring shed roofs closer	schutdaken naderbij brengen	
+Seneca	admittere	nōn sunt dī fastīdiōsī, nōn invidī, admittunt et ascendentibus manum porrigunt	the gods are not haughty, they are not envious, they admit us and, when we ascend, they extend their hand	de goden zijn niet hooghartig, niet afgunstig, zij laten ons toe en reiken ons, wanneer wij opklimmen, de hand	
+Seneca	argumentum	quōcumque mē vertī argūmenta senectūtis meae videō	Wherever I turn, I see clues to my age	waarheen ik me ook wend, zie ik aanwijzingen voor mijn ouderdom	
+Seneca	artifex	saepe bona māteria cessat sine artifice	often good material does not come into its own without an editor	dikwijls komt goed materiaal niet tot zijn recht zonder een bewerker	
+Seneca	concupiscere	nūllīus uxōrem nōn concupīvit	he conceived lust for every wife	hij vatte begeerte op voor ieders echtgenote	
+Seneca	contentus	paupertās contenta est dēsīderiīs īnstantibus satīs facere	poverty is content to satisfy immediate needs	de armoede stelt zich ermee tevreden de onmiddellijke behoeften te bevredigen	
+Seneca	desiderare	fortiter dēsīderāre suōs	bear the loss of his own bravely	het gemis van de zijnen dapper dragen	
+Seneca	desiderare	an sapiēns sapientī prōsit scīre dēsīderās	you want to know if one way can help the other	je wilt weten of de ene wijze iets aan de andere kan hebben	
+Seneca	extra	quae extrā virtūtem posita sunt neque minuere eam neque augēre possunt	things that are outside of virtue cannot make it smaller or larger	zaken die buiten de deugd liggen kunnen haar niet kleiner of groter maken	
+Seneca	fiducia	jam dē tē spem habeō, nōndum fīdūciam	I already have hope for you, but not really trust yet	ik heb wel al hoop ten aanzien van jou, maar nog niet echt vertrouwen	
+Seneca	formare	hic fōrmandus tibi erit īnstituendusque ad intellēctum tuī	this man will have to be molded and taught by you in order to understand you	deze man zal door u gevormd en onderwezen moeten worden om u te kunnen beprijpen	
+Seneca	incommodum	commoda sunt in vītā et incommoda, utraque extrā nōs	there are pleasant and unpleasant things in life and neither of them affects us	er zijn in het leven aangename en onaangename zaken en beide raken ons niet	
+Seneca	numerare	mala sua virtūtum locō numerant	they regard their bad qualities as virtues	zij beschouwen hun slechte eigenschappen als deugden	
+Seneca	numquid	numquid aeger laudat medicum secantem?	does the sick person sometimes praise the doctor while he is operating on him?	prijst de zieke de arts soms terwijl die hem opereert?	
+Seneca	perfectus	quaerere dēbēs aut perfectum virum aut prōficientem vīcīnumque perfectō	you must look for someone who is either perfect or who is on the right path and approaches perfection	je moet zoeken naar iemand die of volmaakt is of die op de goede weg is en de volmaaktheid benadert	
+Seneca	perseverare	persevērā ut coepistī	continue as you started	ga door zoals je begonnen bent	
+Seneca	quamdiu	ideō fruar vītā quia quamdiū futūrum hoc sit nōn nimis pendeō	for this I will enjoy life, because I am not too much in suspense how long this will last	hierom zal ik van het leven genieten, omdat ik niet al te zeer in spanning verkeer hoe lang dit nog duren zal	
+Seneca	propositum	prōpositum tōtīus operis	the purpose of the whole work	het doel van het gehele werk	
+Seneca	rationalis	virtūs in parte nostrī meliōre, id est ratiōnālī, posita est	virtue is in the best, that is the rational, part of us	de deugd bevindt zich in het beste, dat is het rationele, deel van ons	
+Seneca	remedium	philosophiam in remedium suum exercēre	practicing philosophy to heal oneself	de filosofie beoefenen om zichzelf te genezen	
+Seneca	sapere	sapere audē	dare to be wise	durf verstandig te zijn	
+Seneca	secundum 	prōpositum nostrum est secundum nātūram vīvere	it is our maxim to live in accordance with nature	het is onze stelregel te leven in overeenstemming met de natuur	
+Seneca	securus	cui vīta sua cotīdiē fuit tōta, sēcūrus est	the one for whom their own life has been a complete whole every day is free from worries	diegene voor wie het eigen leven elke dag een afgerond geheel is geweest, is vrij van zorgen	
+Seneca	senectus	quōcumque mē vertī, argūmenta senectūtis meae videō	Wherever I turn, I see clues to my age	waarheen ik me ook wend, zie ik aanwijzingen voor mijn ouderdom	
+Seneca	sollicitus	pauperēs notābis nihilō trīstiōrēs aut sollicitiōrēs dīvitibus	you will notice that the poor are not at all more gloomy or restless than the rich	je zult opmerken dat armen helemaal niet somberder zijn of rustelozer dan rijken	
+Seneca	supervacuus	supervacua discere in tantā temporis egestāte dēmentia est	to learn completely useless things in such a great time constraint is madness	in zo'n grote tijdnood volstrekt nutteloze dingen te leren is waanzin	
+Seneca	supra	ut suprā memorāvimus	as we mentioned above	zoals wij hierboven vermeld hebben	
+Seneca	vacare	nōn vacō ad istās ineptiās	I don't have time for that nonsense	voor die onzin heb ik geen tijd	
+Tacitus	abnuere	neque prōvinciae illum statum rērum abnuēbant	the provinces were also at peace with this situation	ook de provincies hadden vrede met deze toestand	
+Tacitus	abnuere	sē vīctōs abnuēbant	they denied that they were conquered	zij ontkenden dat zij overwonnen waren	
+Tacitus	absolvere	absēns accūsātus, absēns absolūtus est	he was charged and acquitted, while he was not there	hij is aangeklaagd én vrijgesproken, terwijl hij er niet bij was	
+Tacitus	accusare	ob accūsātam Messālīnam ultiō timēbātur	they were afraid of revenge because they had sued Messalina	men was bang voor wraak, omdat men Messalina had aangeklaagd	
+Tacitus	acerbus	acerbissima captīvitās	a bitter captivity	een bittere gevangenschap	
+Tacitus	adigere	vulnus per galeam adēgit	he wounded him through his helmet	hij verwondde hem door zijn helm heen	
+Tacitus	adigere	edere cōnsciōs adigitur	he is forced to name his accomplices	hij wordt gedwongen zijn medeplichtigen te noemen	
+Tacitus	adulatio	invidia in occultō, adūlātiō in apertō erant	hatred lived in secret, people expressed themselves openly	in het verborgene leefde haat, openlijk uitte men zich vleiend	
+Tacitus	aemulatio	ērumpit aemulātiō fēminārum	there is fierce rivalry between the women	er ontstaat hevige rivaliteit tussen de vrouwen	
+Tacitus	affligere	nihil aequē quam famēs afflīxit	nothing was such an ordeal as hunger	niets was zo'n beproeving als de honger	
+Tacitus	ambiguus	bellī ambigua fortūna	the uncertain chance of war	de onzekere krijgskans	
+Tacitus	ambiguus	Agrippīna an crēderet ambigua	Agrippina was in two minds whether to believe it	Agrippina was in tweestrijd of ze het moest geloven	
+Tacitus	anteire	damnātiōnem anteiit	he was his conviction for	hij was zijn veroordeling voor	
+Tacitus	anteire	Nerōnem fāma anteībat	he had a better reputation than Nero	hij had een betere reputatie dan Nero	
+Tacitus	appellere	nāvem tumulō Caesarum appulerat	he had landed at the tomb of the imperial family	hij was geland bij het graf van de keizerlijke familie	
+Tacitus	arguere	verba mea arguuntur, adeō factōrum innocēns sum	the accusations are against my words, so little am I guilty of deeds	de beschuldigingen richten zich tegen mijn woorden, zó weinig schuldig ben ik aan daden	
+Tacitus	aspectus	arcēbantur aspectū Veledae	they were kept out of Veleda's line of sight	zij werden buiten Veleda's gezichtsveld gehouden	
+Tacitus	aspectus	maris gravis aspectus	the oppressive sight of the sea	de benauwende aanblik van de zee	
+Tacitus	asseverare	nihil sē audīvisse assevērat	he assures he has not heard anything	hij verzekert dat hij niets gehoord heeft	
+Tacitus	attinere	armātōs castrīs attinēbat	he kept the soldiers in the camp	hij hield de soldaten in het kamp	
+Tacitus	attinere	id ad mē attinet	this concerns me	dit gaat mij aan	
+Tacitus	biduum	bīduō post	two days later	twee dagen later	
+Tacitus	capessere	capessendae reī pūblicae habilis vidētur	he seems fit to take on the government	hij lijkt geschikt de regering op zich te nemen	
+Tacitus	comitatus	multō comitātū ventitābat	he often came with a big following	hij kwam er vaak met een groot gevolg	
+Tacitus	compositus	vultū compositō	with a straight face	met een strak gezicht	
+Tacitus	contumelia	lēgātī perīcula et contumēliās conquerēbantur	the envoys complained about the dangers and the humiliations	de gezanten klaagden over de gevaren en de vernederingen	
+Tacitus	coram	magis expediat mē cōram interrogārī	it would be better if i was personally interrogated	het zou beter zijn dat ik persoonlijk ondervraagd werd	
+Tacitus	coram	patribus cōram respondit	he answered before the senators	hij antwoordde ten overstaan van de senatoren	
+Tacitus	crimen	crīmen majestātis	a charge of lèse majesté	een aanklacht wegens majesteitsschennis	
+Tacitus	cumulare	virtūtem mīlitum laudibus cumulābat	he exuberantly praised the bravery of the soldiers	hij prees de moed van de soldaten uitbundig	
+Tacitus	declinare	adversa in īnscītiam Paetī dēclīnat	he blames the misfortune on the incompetence of Paetus	hij schuift de schuld van de tegenspoed af op de ondeskundigheid van Paetus	
+Tacitus	defigere	omnibus pavōre dēfīxīs	while all were transfixed with fear	terwijl allen van angst aan de grond genageld waren	
+Tacitus	degredi	dēgrediuntur et inter patrēs cōnsīdunt	they go down and sit between the senators (in the theater)	zij gaan naar beneden en nemen plaats tussen de senatoren (in het theater)	
+Tacitus	demovēre	Tiberius dēmōverat Syriā Sīlānum	Tiberius had relieved Silanus of rule over Syria	Tiberius had Silanus ontheven van het bestuur over Syrië	
+Tacitus	deterior	haec versa in dēterius Senecae dēferēbant	this they conveyed to Seneca, while imagining it even worse	dit brachten zij aan Seneca over, terwijl ze het nog slechter voorstelden	
+Tacitus	devincire	largītiōnibus juvenīlem animum dēvinciēbat	she tied the boy to herself with gifts	zij bond de jongen aan zich door geschenken	
+Tacitus	devotio	dēvōtiōnēs eī in prīncipem objectābat	he accused him of magical acts against the emperor	hij beschuldigde hem van magische handelingen gericht tegen de keizer	
+Tacitus	dignatio	dignātiōne ejus magistrātūs omnēs anteībat	he was above all in the prestige of this office	hij stond boven allen door het aanzien van dit ambt	
+Tacitus	discumbere	discubuit ultrā solitum	he stayed at the table longer than usual	hij bleef langer aan tafel dan gewoonlijk	
+Tacitus	elicere	dēlātōrēs per praemia ēliciēbantur	the informants were lured by a reward	de informanten werden door een beloning aangelokt	
+Tacitus	erga	cāritās ergā parentēs	love towards your parents	liefde ten opzichte van je ouders	
+Tacitus	erigere	tālī ōrātiōne metuentēs ērēxit	with such words he gave courage to the fearful	door zulke woorden gaf hij de angstigen weer moed	
+Tacitus	exposcere	vulgus praesentiam Pīsōnis exposcunt	the masses demand Piso's presence	de massa eist Piso's aanwezigheid	
+Tacitus	exsolvere	catēnās Caecīnae exsolvit	he released Caecina from his chains	hij verloste Caecina van zijn ketenen	
+Tacitus	exsolvere	mercēdem centuriōnī exsolvit	he paid the centurion his wages	hij betaalde de centurio zijn loon	
+Tacitus	exsurgere	Britannicō jussit exsurgeret, cantum inciperet	he ordered Britannicus to stand up and sing a song	hij beval Britannicus op te staan en een liedje te zingen	
+Tacitus	exuere	moritūrum potius dīxit quam fidem exueret	he said he would rather die than break his word	hij zei dat hij liever stierf dan dat hij zijn woord brak	
+Tacitus	favor	favor plēbis	the popular favor	de volksgunst	
+Tacitus	firmare	cūnctōs alloquiō firmābat	he strengthened all with his words	hij sterkte allen door zijn woorden	
+Tacitus	firmare	dē comitiīs vix quicquam firmāre ausim	I would hardly dare to say anything with certainty about the elections	over de verkiezingen zou ik haast niets met zekerheid durven beweren	
+Tacitus	flagrare	flagrantior in diēs amōre Poppaeae	day by day his love for Poppaea grew more passionate	met de dag werd zijn liefde voor Poppaea hartstochtelijker	
+Tacitus	gnarus	augēbat metum gnārus Rōmānae sēditiōnis hostīs	the fact that the enemy was aware of the disturbances in Rome increased the fear	het feit dat de vijand op de hoogte was van de onlusten in Rome verhoogde de angst	
+Tacitus	gnarus	gnārum hoc prīncipī	this was the principle known	dit was de princips bekend	
+Tacitus	hactenus	hāctenus Vitellius voluit	Vitellius did not want more	meer wilde Vitellius niet	
+Tacitus	inclinare	favor populī inclīnābat in Vitellium	the people felt the most for Vitellius	het volk voelde het meest voor Vitellius	
+Tacitus	indere	indita sunt vincla, ut quis reperiēbātur	who was found was handcuffed	wie werd gevonden, werd in de boeien geslagen	
+Tacitus	infensus	nātiō Frīsiōrum īnfēnsa aut male fīda	the people of the Frisians are hostile to us or unreliable	het volk der Friezen is ons vijandig gezind of onbetrouwbaar	
+Tacitus	innocentia	cūncta prōferat quibus innocentia ejus appāreat	let him tell everything that may prove his innocence	laat hij alles vertellen waardoor zijn onschuld kan blijken	
+Tacitus	innoxius	innoxia adhūc pōtiō trāditur Britannicō	the still harmless drink is handed over to Britannicus	de nog onschadelijke drank wordt aan Brittannicus overgereikt	
+Tacitus	insectari	Lepida crēbrīs crīminibus marītum īnsectāta est	Lepida pursued her husband with numerous accusations	Lepida achtervolgde haar man met talrijke beschuldigingen	
+Tacitus	insitus	īnsita mortālibus potentiae cupidō	the lust for power is rooted in man	de begeerte naar macht is in de mens geworteld	
+Tacitus	intercipere	interceptīs epistulīs	after intercepting the letters	na de brieven onderschept te hebben	
+Tacitus	irrepere	irrēpsit mīlitārēs animōs	he won a place in the hearts of the soldiers	hij veroverde zich een plaats in de harten van de soldaten	
+Tacitus	irritare	litterae suspīciōnēs mīlitum irrītāvēre	the letter aroused the suspicions of the soldiers	de brief wekte de achterdocht van de soldaten	
+Tacitus	irrumpere	an parum quod Venetī cūriam irrūperint?	isn't it enough that even Venice have invaded the senate?	is het nog niet genoeg dat zelfs Veneti zich in de senaat hebben ingedrongen?	
+Tacitus	iuxta 	ubi bellum ingruit, innocentēs ac noxiī juxtā cadunt	when the war begins, the innocent and the guilty fall equally	als de oorlog begint, vallen onschuldigen en schuldigen gelijkelijk	
+Tacitus	luere	poenās luere	being punished	gestraft worden	
+Tacitus	luxus	juvenem urbānō luxū lascīvientem melius in castrīs habērī rēbātur	he thought that a young man who indulged in the pleasures of the city had better stay in an army camp	hij meende dat een jonge man die zich te buiten ging aan de genietingen van de stad, maar beter in een legerkamp kon verblijven	
+Tacitus	minister	parārī venēnum jubet ministrō Polliōne	he had a poison prepared, with Pollio acting as an accomplice	hij liet een vergif bereiden, waarbij Pollio als handlanger optrad	
+Tacitus	minitari	abeuntibus exitium minitābātur	he threatened those who went away with destruction	hij bedreigde hen die weggingen met de ondergang	
+Tacitus	mitigare	mīsit praefectōs ad mītigandās īrās mīlitum	he sent officers to appease the anger of the soldiers	hij stuurde officieren om de woede van de soldaten tot bedaren te brengen	
+Tacitus	modicus	legiōnēs modicīs intervāllīs sequēbantur	the legions followed with not too great mutual distance	de legioenen volgden met niet te grote onderlinge afstand	
+Tacitus	modicus	dē juventā suā pauca et modica disseruit	about his childhood he said only a few unpretentious things	over zijn jeugd zei hij slechts een paar pretentieloze dingen	
+Tacitus	muliebris	uxōris cōnsilium adsūmpserat muliebre et dēterius	he had followed his wife's advice, a typically feminine, worse advice	hij had de raad van zijn vrouw opgevolgd, een typisch vrouwelijke, slechtere raad	
+Tacitus	munia	Sīlius ad mūnia forī dīgreditur	Silius leaves to fulfill his duties on the forum	Silius gaat weg om zijn taken op het forum te vervullen	
+Tacitus	nedum	Britannicus sōbriōs convictūs nēdum tēmulentōs ignōrāns	Britannicus was not used to parties with moderate drinking, let alone drunken parties	Brittannicus was niet gewend aan feesten waarbij matig gedronken werd, laat staan aan dronkemanspartijen	
+Tacitus	obsequium	quō obsequiō flōrentem Sōrānum celebrāverat, lābentem nōn dēseruit	with the same affection with which he had served Soranus in his good days, he remained faithful to him in his downfall	met dezelfde aanhankelijkheid waarmee hij Soranus gediend had in zijn goede tijd, bleef hij hem trouw bij zijn neergang	
+Tacitus	obsistere	mīlitēs Agrippīnam ōrant, obsistunt, manēret	the soldiers block Agrippina's way and beg her to stay	de soldaten versperren Agrippina de weg en smeken haar te blijven	
+Tacitus	offensio	accēdēbant muliebrēs offēnsiōnēs	there was also hatred and envy between women	daar kwam haat en nijd tussen vrouwen bij	
+Tacitus	ordiri	veniam dīcendī ante aliōs exposcit ōrdīturque	he asks permission to speak before the others and begins	hij vraagt toestemming vóór de anderen te spreken en begint	
+Tacitus	paenitentia	Nerō tamquam paenitentiā flāgitiī conjugem revocābat	as if he regretted his deed, Nero called his wife back	alsof hij spijt had van zijn daad riep Nero zijn vrouw terug	
+Tacitus	palam	īnferius majestāte suā ratī, sī palam lāmentārentur	they thought it was beneath their dignity to openly show their sorrow	zij vonden het beneden hun waardigheid om openlijk hun verdriet te tonen	
+Tacitus	pompa	fūnus imāginum pompa maximē illūstrē fuit	the funeral was particularly impressive because of the procession of statues of ancestors	de begrafenis was bijzonder indrukwekkend door de stoet beelden van voorouders	
+Tacitus	praecipuus	praecipua rērum	the main points	de hoofdpunten	
+Tacitus	praecipuus	praecipuī ad scelera	the main perpetrators	de hoofddaders	
+Tacitus	praefectus	praefectus praetōriī, praefectus praetōriō	the commander of the Imperial Guard	de kommandant van de keizerlijke garde	
+Tacitus	praeferre	ōrātiō multum cultus praeferēbat	the speech showed great care	de redevoering gaf blijk van grote verzorgdheid	
+Tacitus	praeferre	ad hōc tantum praelātus est, ut prius occīderētur	only in this was he favored that he should be killed first	slechts hierin werd hij voorgetrokken dat hij het eerst gedood zou worden	
+Tacitus	praetendere	abnuentibus cūnctīs, cum dīversa praetendēbant	while all refused, each with a different pretext	terwijl allen weigerden, ieder met een ander voorwendsel	
+Tacitus	praetorium	praefectus praetōriī, praefectus praetōriō	the commander of the Imperial Guard	de kommandant van de keizerlijke garde	
+Tacitus	prorumpere	vīctō silentiō prōrūpit	he broke the silence and broke loose	hij verbrak de stilte en barstte los	
+Tacitus	prosequi	Nerō mātrem abeuntem prōsequitur	Nero escorts his mother on her departure	Nero doet zijn moeder uitgeleide bij haar vertrek	
+Tacitus	provehere	prōvecta jam senectūs aegrō et corpore fatīgābātur	In addition, at his already old age, he was still tormented by illness	op zijn toch al hoge leeftijd werd hij bovendien nog door ziekte gekweld	
+Tacitus	provenire	Sejānus, quia prīma prōvēnerant, volūtāre sēcum majōra	because the first steps had gone well, Seianus began to have more ambitious plans	omdat de eerste stappen goed gegaan waren, begon Seianus ambitieuzere plannen te koesteren	
+Tacitus	seponere	prīncipātum Nervae senectūtī sēposuī	I save the description of Nerva's government for my old age	de beschrijving van Nerva's regering bewaar ik voor mijn oude dag	
+Tacitus	suboles	Germānicī illa reliqua subolēs virīlis erat	he was the only surviving male descendant of Germanicus	hij was de enig overgebleven mannelijke nakomeling van Germanicus	
+Tacitus	transmittere	pōma intācta ōre servīs trāmīsit	she passed the fruit on to the slaves without eating it	zij gaf de vruchten zonder ervan te eten aan de slaven door	
+Tacitus	tribunal	stetērunt ante tribūnal dīversī, pater contrā fīliam	there father and daughter faced each other before the judge	daar stonden vader en dochter tegenover elkaar voor de rechter	
+Tacitus	ultio	mihi ultiōne neque sōlāciīs opus est	I don't need revenge, nor comfort	ik heb geen behoefte aan wraak en evenmin aan troost	
+Tacitus	usurpare	trānsgressī in mōrem eōrum īdem ūsūrpant	once they get into their mindset they do the same (as they do)	als ze eenmaal tot hun denkwijze zijn overgegaan, doen ze hetzelfde (als zij)	
+Tacitus	usurpare	Claudius mūnera cēnsōria ūsūrpāvit	Claudius fulfills his duty as censor	Claudius kweet zich van zijn taak als censor	
+Vergilius	accingere	laterīque accīnxerat ēnsem	he had the sword girded at his side	hij had het zwaard aan de zijde gegord	
+Vergilius	accingere	fīdōque accingitur ēnse	he girds himself the faithful sword	hij gordt zich het trouwe zwaard aan	
+Vergilius	advertere	terraeque advertere prōrās	turn the prows towards the coast	de voorstevens naar de kust richten	
+Vergilius	advertere	et hūc advertite mentem	focus on this	richt hier de aandacht op	
+Vergilius	aetherius	aetheriīs dēlāpsus ab astrīs	sliding down from the stars of heaven	van de sterren des hemels neerglijdend	
+Vergilius	aetherius	ad aetherium Olympum	to the sky-high Olympus	naar de hemelhoge Olympus	
+Vergilius	affari	hostem supplex affāre superbum	plead with the proud enemy	spreek de trotse vijand smekend toe	
+Vergilius	attollere	ab humō miserāns attollit amīcum	he lifts his friend from the ground compassionately	hij tilt vol mededogen zijn vriend van de grond	
+Vergilius	attollere	oculōs attollere	save the eyes	de ogen opslaan	
+Vergilius	avellere	complexū āvulsus Jūlī	tearing oneself from the embrace of Iulus	zich uit de omhelzing van Iulus losrukkend	
+Vergilius	caestus	manibusque indūcere caestūs	put the boxing belts on the hands	de boksriemen aan de handen doen	
+Vergilius	clipeus	clipeōque sinistram īnsertābam	I stuck my left hand into (the straps of) the shield	ik stak mijn linkerhand in (de riemen van) het schild	
+Vergilius	cognomen	cui nunc cognōmen Jūlō additur	who now gets the name Iulus	die nu de naam Iulus erbij krijgt	
+Vergilius	cognomen	Hesperiam Grāī cognōmine dīcunt	the Greeks call it Hesperia (Evening Land)	de Grieken geven het de naam Hesperia (Avondland)	
+Vergilius	culmen	ex altō dēlūbrī culmine	from the high temple roof	vanaf het hoge tempeldak	
+Vergilius	effari	haec effāta silet	after these words she is silent	na deze woorden zwijgt zij	
+Vergilius	exanimus	dēcidit exanimīs	dead he fell	ontzield viel hij neer	
+Vergilius	fari	sīc fātus	after these words	na deze woorden	
+Vergilius	foedare	unguibus ōra foedāns	smashing her face with her nails	haar gelaat met haar nagels toetakelend	
+Vergilius	foedare	sanguine foedantem quōs ipse sacrāverat ignēs	with his blood sullying the sacred fires that he himself had kindled	met zijn bloed de heilige vuren bezoedelend die hij zelf ontstoken had	
+Vergilius	funis	ab lītore fūnem rumpite	untie the rope from the bank	maakt het touw van de oever los	
+Vergilius	furens	tōtaque vagātur urbe furēns	she roams all over the city mad	zij zwerft buiten zinnen door de ganse stad	
+Vergilius	germana	germānam amplexa	embracing her sister	haar zuster omarmend	
+Vergilius	gressus	gressumque in castra ferēbat	he directed his steps towards the camp	hij richtte zijn schreden naar het kamp	
+Vergilius	horrendus	horrendum dictū	horrible to mention	afschuwelijk om te vermelden	
+Vergilius	hospitium	jungī hospitiō	to befriend	vriendschap sluiten	
+Vergilius	immotus	immōta unda	the motionless water	het roerloze water	
+Vergilius	immotus	mēns immōta manet	his mind remains adamant	zijn geest blijft onvermurwbaar	
+Vergilius	infandus	īnfandum, rēgīna, jubēs renovāre dolōrem	you bid me, queen, to live again an unspeakable sorrow	u verzoekt mij, koningin, een onuitsprekelijke smart opnieuw te doorleven	
+Vergilius	infandus	īnfandum bellum	the unholy war	de onzalige oorlog	
+Vergilius	ingeminare	ingeminant cūrae	the worries are growing	de zorgen nemen toe	
+Vergilius	instaurare	inceptōs īnstaurat honōrēs	he restores the worship once begun	hij stelt de eens begonnen verering weer in	
+Vergilius	instaurare	īnstaurātī sunt animī	we got new courage	wij kregen nieuwe moed	
+Vergilius	lacrimare	lacrimānsque gemēnsque	weeping and groaning	wenend en kermend	
+Vergilius	mactare	septem mactāre juvencōs	sacrifice seven young bulls	zeven jonge stieren offeren	
+Vergilius	mergere	pandere rēs altā terrā et cālīgine mersās	reveal things shrouded in mist deep beneath the earth	dingen die diep onder de aarde in nevel gehuld zijn, openbaren	
+Vergilius	monstrare	mātre deā mōnstrante viam	while my mother, the goddess, showed the way	terwijl mijn moeder, de godin, de weg wees	
+Vergilius	ostium	ōstia Nīlī	the mouths of the Nile	de mondingen van de Nijl	
+Vergilius	ostium	aditūs centum, ōstia centum	a hundred entrances, a hundred gates	honderd ingangen, honderd poorten	
+Vergilius	ovare	dictō pārēmus ovantēs	we joyfully obey his command	wij gehoorzamen juichend zijn bevel	
+Vergilius	patera	vīnaque fundēbat paterīs	he poured out the wine from the bowls	hij goot de wijn uit de offerschalen	
+Vergilius	penetralis	aeternumque adytīs effert penetrālibus ignem	he carries out the eternal fire from the sanctuary within the house	hij draagt het eeuwige vuur naar buiten uit het heiligdom in het binnenste van het huis	
+Vergilius	penetralis	cānae penetrālia Vestae	the shrine of the venerable Vesta	het heiligdom van de eerbiedwaardige Vesta	
+Vergilius	procumbere	exanimisque tremēns prōcumbit humī bōs	soulless the ox falls trembling to the ground	ontzield valt het rund sidderend ter aarde	
+Vergilius	prora	obvertunt pelagō prōrās	they point the sterns out to sea	zij richten de stevens naar zee	
+Vergilius	puppis	ancora dē prōrā jacitur, stant lītore puppēs	the anchor is thrown from the forecastle, the sterns are on the beach	het anker wordt van de voorplecht geworpen, de achterstevens staan op het strand	
+Vergilius	puppis	et lītora praetexunt puppēs	ships line the beach	schepen omzomen het strand	
+Vergilius	reliquiae	reliquiās Danaum atque inmītis Achillī	what the Danaans and ruthless Achilles had left behind	wat de Danaërs en de meedogenloze Achilles nog overgelaten hadden	
+Vergilius	remus	ternō cōnsurgunt ōrdine rēmī	in three rows the oars rise up	in drie rijen rijzen de riemen omhoog	
+Vergilius	sistere	siste gradum	hold back your steps	houd je schreden in	
+Vergilius	sistere	tūtum patriō tē līmine sistam	I'll take you home safe	ik zal je veilig thuis brengen	
+Vergilius	sistere	ubi sistere dētur	where one could rest	waar men zou kunnen rusten	
+Vergilius	suspensus	mē sonus excitat omnis suspēnsum	every sound scares me, tense as I am	elk geluid doet mij, gespannen als ik ben, schrikken	
+Vergilius	tumidus	tumida ex īrā tum corda resīdunt	then his heart swollen with anger calms down	dan komt zijn van woede gezwollen hart tot bedaren	
+Vergilius	vadere	haud timidīs vādentem passibus	striding with firm strides	met ferme passen schrijdend	
+Vergilius	vitta	omnibus hīs nivea cinguntur tempora vittā	of all these the temples are surrounded by a snow-white woolen band	van al dezen zijn de slapen omgeven door een sneeuwwite wollen band	
+Vergilius	volutare	genibusque volūtāns haerēbat	he clung to my knees, writhing in the dust	hij klampte zich, kronkelend in het stof, aan mijn knieën vast	
+Vergilius	volutare	cōnsonat omne nemus vōcemque inclūsa volūtant lītora	all the forest resounds and the fringed shores make the sound roll on	geheel het woud weerklinkt en de omzoomde kusten doen het geluid voortrollen	
+Vergilius	volutare	caecōsque volūtat ēventūs animī sēcum	he ponders to himself the dark outcome	hij overdenkt bij zichzelf de duistere afloop	
+				

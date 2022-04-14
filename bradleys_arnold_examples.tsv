@@ -23,8 +23,8 @@ rule	lat	eng
 34	Hoc sē fēcisse negat.	He says that he (himself) did not do this.
 36	Sē in Asiā esse dīcit.	He says that he is in Asia.
 36	Sē in Asiā esse dīxit.	He said that he was in Asia.
-36	Sē in Asiā fuisse dīcit.	He says he was (or has been) in Asia.
-36	Sē in Asiā fuisse dīxit.	He said that he had been, or was, in Asia.
+36	Sē in Asiā fuisse dīcit.	He says has been in Asia.
+36	Sē in Asiā fuisse dīxit.	He said that he had been in Asia.
 36	Sē itūrum esse dīcit.	He says that he will go.
 37	Spērat plērumque adulēscēns diū sē vīctūrum esse.	A young man generally hopes to live a long time.
 37	Hoc sē factūrum esse minātus est.	He threatened to do this.
@@ -36,8 +36,8 @@ rule	lat	eng
 41	Mīlitēs abīre iussit.	He ordered  the soldiers to depart.
 41	Tē venīre nōlō.	I do not wish you to come.
 41	Tē incolumem rediisse gaudeō.	I rejoice that you have returned safely.
-42	Cīvis Rōmānus fierī (vocārī) cupiō.	I am anxious to become (to be called) a citizen of Rome.
-42	Soleō (incipiō, festīnō) ōtiōsus esse.	I am accustomed (I am beginning, I am making haste) to be at leisure.
+42	Cīvis Rōmānus fierī cupiō.	I am anxious to become a citizen of Rome.
+42	Soleō ōtiōsus esse.	I am accustomed to be at leisure.
 42	Morī mālō quam servus esse.	I had rather die than be a slave.
 43	Dīcitur Cicerō cōnsul fuisse.	Cicero is said to have been consul.
 43	Dīcor iūstus esse.	It is said that I am just.
@@ -50,7 +50,7 @@ rule	lat	eng
 45	Cōnstituit Caesar ut Antōnius cōnsul fieret.	Caesar determined that Antony should be made consul.
 45	Voluit Caesar Antōnium cōnsulem fierī.	Caesar determined that Antony should be made consul.
 46	Caesarī nūntiātum est adesse Gallōs.	News was brought to Caesar that the Gauls were at hand.
-46	Haec mihi facere vīsum est.	It seemed good to me (I resolved) to do this.
+46	Haec mihi facere vīsum est.	I resolved to do this.
 47	Et pater mihi et māter mortuī sunt.	Both my father and mother are dead.
 47	Et ego et soror mea ad praetōrem vocātī erāmus.	Both my sister and I had been summoned to the praetor.
 48	Fidēs tua et pietās laudandae sunt.	Your good faith and dutifulness are to be praised.
@@ -60,7 +60,7 @@ rule	lat	eng
 48	Mihi prīncipātus atque imperium dēlātum est.	The sovereignty and chief power were offered to me.
 49	Terrās omnēs et maria perlūstrāvit.	He travelled over all lands and seas.
 50	Bonī sapientēsque ex cīvitāte pelluntur.	The good and wise men are being banished.
-50	Iam nostrī aderant.	Our men (or soldiers) were now at hand.
+50	Iam nostrī aderant.	Our soldiers were now at hand.
 50	Omnia mea mēcum portō.	I am carrying all my property with me.
 53	Vēra et falsa.	Truth and falsehood
 53	Vēra dīcēbat.	He was speaking the truth.
@@ -102,7 +102,7 @@ rule	lat	eng
 61	Frequentēs convēnēre.	They came together in crowds.
 61	Vīvus.	In his lifetime
 61	Mortuus.	After his death
-61	Dīversī fūgēre.	They fled in opposite (or different) directions.
+61	Dīversī fūgēre.	They fled in different directions.
 62	Prīmus haec fēcit.	He was the first who did this, or to do this.
 62	Sōlus mala nostra sēnsit.	He was the only person who perceived our evils.
 62	Ultimus vēnisse dīcitur.	It is said that he was the last to come.
@@ -134,7 +134,7 @@ rule	lat	eng
 70	Is sum quī semper fuī.	I am the man I always was.
 71	Quī haec vidēbant, flēbant.	Those who saw this wept.
 71	Eīs, quī adstābant, īrāscēbātur.	He was angry with those who stood by.
-72	Eum quī haec facit ōdī.	I hate one who (or a man who) does this.
+72	Eum quī haec facit ōdī.	I hate a man who does this.
 72	Eōs quī haec faciunt ōdī.	I hate men who do this.
 72	Quī haec faciunt, peiōra facient.	Men who are doing this will do worse.
 73	Adstantium clāmōre perterritus.	Alarmed by the shouts of the bystanders.
@@ -148,13 +148,13 @@ rule	lat	eng
 77	Ait sē mulierem aspicere quae piscēs vēndat.	He says that he sees a woman who is selling fish.
 78	Ad rēgem vēnī, quem cum vīdissem...	I came to the king, and when I had seen him...
 79	Dīxit prōditōrem esse eum ... quem brevī peritūrum esse.	He said that he was a traitor ... and that he would soon perish.
-80	Nēmō est quīn tē dēmentem putet.	There is no one but thinks you mad (=the whole world thinks, etc.)
+80	Nēmō est quīn tē dēmentem putet.	There is no one but thinks you mad (= the whole world thinks, etc.)
 80	Nēmō fuit quīn vīderim.	There was no one whom I did not see.
 81	Prīmus haec fēcit.	He was the first who did this.
 82	Agricolam laudat iūris lēgumque perītus.	It is the farmer whom the lawyer praises.
 83	Thēbae, quod Boeōtiae caput est.	Thebes, which is the capital of Boeotia.
 83	Ea vēra est pietās.	That is true piety.
-84	Tālis est quālis semper fuit.	He is such as (of the same character as) he has ever been.
+84	Tālis est quālis semper fuit.	He is of the same character as he has ever been.
 84	Tantam habeō voluptātem quantam tū.	I have as much pleasure as you.
 84	Tot erant mīlitēs quot maris flūctūs.	The soldiers were as many as the waves of the sea.
 84	Īdem est quī semper fuit.	He is the same as he has always been.

@@ -24,3 +24,5 @@ English-Latin vocabulary based on the [Fluent Forever](https://blog.fluent-forev
 * `bradleys_arnold_examples.tsv`
 
 Latin-English phrases from the textbook Bradley's Arnold. Starts at Exercise 4. Is not exhaustive and does not include alternate phrasing.
+
+Uses Unicode vulgar fractions operator character `U+2044` and Unicode Roman numerals `U+2160`–`U+2188`.

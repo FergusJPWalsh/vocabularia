@@ -1,4 +1,73 @@
 rule	lat	eng
+1	Avis canit; avēs canunt.	 The bird sings; the birds sing.
+2	Rēx ille, vir iūstissimus, plūrima foedera pactus est.	That just king contracted many treaties.
+3	Alexander, tot rēgum atque populōrum victor.	Alexander, the conqueror of so many kings and nations.
+4	Sacerdōs hostiam cecīdit.	The priest struck down the victim.
+4	Alius alium hortātur.	One man exhorts another.
+4	Pontem fēcērunt.	They made a bridge.
+5	Tibi faveō; tibi favētur.	I favour you; you are favoured.
+5	Tibi pāreō; tibi pārētur.	I obey you; you are obeyed.
+5	Tibi persuādeō; tibi persuādētur.	I persuade you; you are persuaded.
+5	Tibi parcō; tibi parcitur.	I spare you; you are spared.
+6	Hoc patrī meō dedī.	I gave this to my father.
+6	Ad patrem vēnī.	I came to my father.
+6	Prō patriā morī.	To die for one’s country.
+7	Gaius est iūstus.	Gaius is a just man.
+7	Scio Gaium iūstum fierī.	I know that Gaius is becoming just.
+7	Gaius imperātor salūtātus est.	Gaius was saluted as Imperator.
+8	Castra vallō fossāque ā mīlitibus mūnīta sunt.	The camp has been fortified by the soldiers with a rampart and ditch.
+8	Cum tēlō vēnit.	He came with a weapon.
+8	Cum Caesare hoc fēcī.	I did this with Caesar.
+9	Hōc mēnse quīndecim diēs aegrōtāvī.	I have been ill for fifteen days in this month.
+9	Trēs ibi diēs commorātus sum, quārtō diē domum rediī.	I stayed there three days, I returned home on the fourth day.
+9	Rōmā vēnit.	He came from Rome.
+9	Ab Italiāvēnit.	He came from Italy.
+9	Neāpolim rediit.	He returned to Naples.
+9	In Italiam rediit.	He returned to Italy.
+9	Domō vēnit.	He came from home.
+9	Rūs abiit.	He went off to the country.
+10	Hortī patris.	My father’s gardens.
+10	Laus ducis.	The praise of the general.
+10	Fortium virōrum facta.	The deeds of brave men.
+11	Ego hoc volō.	For myself I wish this.
+11	Tū Tarentum āmīsistī, ego recēpī.	You lost Tarentum, I retook it.
+11	Tum ille dextram porrigit.	Then he holds out his right hand.
+11	Suō sē gladiō vulnerāvit.	He wounded himself with his own sword.
+11	Patrem meum vīdī.	I have seen my father.
+11	Hoc sē factūrum esse ait.	He says he will do it.
+12	Ille est equus, quem ēmī.	Yonder is the horse which I have bought.
+13	Dīvitiās optat, quās adeptūrus est numquam.	He is praying for riches, but will never obtain them.
+14	Cum hoc audīvisset, rediit.	Having heard this, he returned.
+15	They marvelled and went away.	Admīrātī abiēre.
+15	He attacked and took the city.	Urbem oppugnātam cēpit.
+16	Num cāsū factus est mundus?	Was the world (sun, moon, stars, and earth) made by chance?
+16	Lūna circum tellūrem movētur.	The moon moves round the world (this planet).
+16	Orbī terrārum imperābant Rōmānī.	The Romans were rulers of the world.
+16	Omnēs hominēs īnsānīre eum crēdunt.	The whole world thinks him out of his mind.
+16	Nēmō ūsquam.	No one in the world.
+16	Multum hominibus nocuit.	He did the world much harm.
+16	In hāc vītā numquam eum sum vīsūrus.	I shall never see him in this world.
+21	He changed his seat.	Sēdem mūtāvit.
+21	The weather is changing.	Mūtātur tempestās.
+21	He broke up the crowd.	Multitūdinem dissipāvit.
+21	The fog broke up.	Dissipāta est nebula.
+21	He moved his arm.	Bracchium mōvit.
+21	The moon moves round the earth.	Lūna circā tellūrem movētur.
+21	He rolled down stones.	Lapidēs dēvolvit.
+21	The stones roll down.	Dēvolvuntur lapidēs.
+21	He will surrender the city.	Urbem dēdet.
+21	The enemy will surrender.	Sē dēdent hostēs.
+21	Riches increase.	Crēscunt dīvitiae.
+21	He increased his wealth.	Opēs suās auxit.
+21	He collected books.	Librōs collēgit.
+21	A crowd was collecting.	Conveniēbat multitūdō.
+23	Honōrēs petō.	I aim at high office.
+23	øtium dēsīderō.	I crave for leisure.
+23	Pācem spērō.	I hope for peace.
+23	Tē audiō.	I listen to you.
+23	Tē exspectō.	I wait for you.
+23	Caelum suspiciō.	I look up at the sky.
+23	Hoc optō.	I pray for this.
 26	Et ego et tū manūs sustulimus.	Both you and I raised our hands.
 26	Et tū et frāter meus manūs sustulistis.	Both you and my brother lifted up your hands.
 27	Et tū ades et frāter tuus.	Both you and your brother are here.
@@ -20,7 +89,7 @@ rule	lat	eng
 33	He says that he is not ready.	Sē parātum esse negat.
 33	He said he would never do this.	Sē hoc umquam esse factūrum negāvit.
 33	He says he has done nothing.	Negat sē quidquam fēcisse.
-34	Hoc sē fēcisse negat.	He says that he (himself) did not do this.
+34	Hoc sē fēcisse negat.	He says that he himself did not do this.
 36	Sē in Asiā esse dīcit.	He says that he is in Asia.
 36	Sē in Asiā esse dīxit.	He said that he was in Asia.
 36	Sē in Asiā fuisse dīcit.	He says has been in Asia.
@@ -148,7 +217,7 @@ rule	lat	eng
 77	Ait sē mulierem aspicere quae piscēs vēndat.	He says that he sees a woman who is selling fish.
 78	Ad rēgem vēnī, quem cum vīdissem...	I came to the king, and when I had seen him...
 79	Dīxit prōditōrem esse eum ... quem brevī peritūrum esse.	He said that he was a traitor ... and that he would soon perish.
-80	Nēmō est quīn tē dēmentem putet.	There is no one but thinks you mad (= the whole world thinks, etc.)
+80	Nēmō est quīn tē dēmentem putet.	There is no one but thinks you mad (i.e. the whole world thinks, etc.)
 80	Nēmō fuit quīn vīderim.	There was no one whom I did not see.
 81	Prīmus haec fēcit.	He was the first who did this.
 82	Agricolam laudat iūris lēgumque perītus.	It is the farmer whom the lawyer praises.
@@ -271,7 +340,6 @@ rule	lat	eng
 139	Caesar timēbat flūminī exercitum obicere.	Caesar was unwilling to expose his army to the river.
 140	Ad mē venī.	Come to me.
 140	Audīte hoc.	Hear this.
-141	to be included?	x
 142	Postrēmus loquāris, prīmus taceās.	Be you the last to speak, the first to be silent.
 143	Nōlī hoc facere.	Do not do this.
 143	Cavē nē hoc faciās.	Do not do this.
@@ -386,8 +454,8 @@ rule	lat	eng
 176	Quī patrem suum occīderint nescit.	He knows not who were his father’s murderers.
 176	Quae vērē sentiō dīcam.	I will utter my real sentiments.
 176	Quae vērē sentiam dīcam.	I will tell you what are my real sentiments.
-179	Sulla suōs hortātur ut fortī animō sint.	Sulla exhorts (= exhorted) his men to be stout-hearted. (Primary Sequence.)
-179	Subitō ēdīcunt cōnsulēs ut ad suum vestītum senātōrēs redīrent.	The consuls suddenly publish (= published) an edict, that the senators were to return to their usual dress. (Secondary Sequence.)
+179	Sulla suōs hortātur ut fortī animō sint.	Sulla exhorts his men to be stout-hearted.
+179	Subitō ēdīcunt cōnsulēs ut ad suum vestītum senātōrēs redīrent.	The consuls suddenly publish (= published) an edict, that the senators were to return to their usual dress. (Secondary Sequence).
 180	Dum Rōmānī tempus terunt, Saguntum captum est.	While the Romans were wasting time, Saguntum was captured.
 181	Iamprīdem cupiō abīre.	I have long been desiring to depart.
 181	Cōpiae quās iam diū comparābant, aderant.	The forces which they had long been collecting, were at hand.
@@ -399,7 +467,7 @@ rule	lat	eng
 185	Haec puerī discēbāmus.	When we were boys we used to learn this.
 185	Huius modī hominēs adulēscens admīrābar.	These were the men whom I admired in my youth.
 186	Interim cottīdiē Caesar Aeduōs frūmentum flāgitāre; ... diem ex diē dūcere Aeduī ... dīcere, etc.	Meanwhile Caesar was daily importuning the Aedui for provisions; they kept putting off day after day, asserting, etc.
-187	Vīxērunt.	They have lived (= they are now dead).
+187	Vīxērunt.	They have lived (i.e. they are now dead).
 188	Hoc compertum, cognitum, explōrātum habeō.	I have found out, ascertained, made sure of this.
 188	Hunc hominem iamdiū nōtum habeō.	I have long known this man.
 191	Dum hīc erō tē amābō.	As long as I am here, I shall love you.
@@ -568,10 +636,9 @@ rule	lat	eng
 251	Mihi hoc ūtile est.	This is useful for me.
 251	Mihi adfuit, hīs rēbus nōn interfuit.	He gave me the benefit of his presence, he took no part in these matters.
 253	Ad urbem pervēnit.	He reached the city.
-253	[check x] Tē illī posthabeō.	I place you behind him.
 253	Sē perīculīs obiēcit.	He exposed himself to dangers.
 253	Mortem sibi cōnscīvit.	He committed suicide
-253	Vim sibi intulit.	He laid violent hands on himself (committed suicide).
+253	Vim sibi intulit.	He laid violent hands on himself (i.e. committed suicide).
 253	Tē exercituī praefēcērunt.	They have placed you in command of the army.
 253	Bellum nōbīs indīxit.	He declared war against us.
 253	Hoc mēcum commūnicāvit.	He imparted this to me.
@@ -609,13 +676,13 @@ rule	lat	eng
 260	Odiō esse.	To be hated by.
 260	Impedīmentō esse.	To be a hindrance.
 260	Honōrī esse.	To be creditable or honourable.
-260	Dētrīmentō (damnō) esse.	To be hurtful.
+260	Dētrīmentō esse.	To be hurtful.
 260	Dolōrī esse.	To cause pain or sorrow.
-260	Argūmentō (documentō) esse.	To be a proof.
+260	Argūmentō esse.	To be a proof.
 260	Bonō esse.	To profit, to be profitable.
 260	Opprobriō esse.	To be disgraceful.
 260	Quantō hoc tibi sit dēdecorī vidēs.	You see how disgraceful this is to you.
-260	Ōdī odiōque sum Rōmānīs.	I hate the Romans and am hated by them. (Hannibal in Livy 35.19)
+260	Ōdī odiōque sum Rōmānīs.	I hate the Romans and am hated by them (Hannibal in Livy 35.19).
 261	Liceat nōbīs quiētīs esse.	Let us be allowed to be at rest.
 261	Puerō cognōmen Iūlō additur.	The surname of Iulus is given to the boy.
 264	Abstinēre iniūriā.	To abstain from wrong.

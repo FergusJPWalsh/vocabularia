@@ -23,6 +23,8 @@ English-Latin vocabulary based on the [Fluent Forever](https://blog.fluent-forev
 # Examples from Bradley's Arnold
 * `bradleys_arnold_examples.tsv`
 
-Latin-English phrases from the textbook Bradley's Arnold. Starts at Exercise 4. Is not exhaustive and does not include alternate phrasing.
+Latin-English examples sentences and phrases from _Bradley's Arnold Latin Prose Composition_ ed. Sir James Mountford, 1938.
+
+The dataset contains nearly every example where an English translation was supplied, though it is not exhaustive, and I have exercised my own judgment in including examples or alternate phrasing. The examples from the Introduction are ommitted.
 
 Uses Unicode vulgar fractions operator character `U+2044` and Unicode Roman numerals `U+2160`–`U+2188`.

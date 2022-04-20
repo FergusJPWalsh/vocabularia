@@ -1,5 +1,4 @@
-rule	lat	eng
-1	Avis canit; avēs canunt.	 The bird sings; the birds sing.
+1	Avis canit; avēs canunt.	The bird sings; the birds sing.
 2	Rēx ille, vir iūstissimus, plūrima foedera pactus est.	That just king contracted many treaties.
 3	Alexander, tot rēgum atque populōrum victor.	Alexander, the conqueror of so many kings and nations.
 4	Sacerdōs hostiam cecīdit.	The priest struck down the victim.
@@ -21,7 +20,7 @@ rule	lat	eng
 9	Hōc mēnse quīndecim diēs aegrōtāvī.	I have been ill for fifteen days in this month.
 9	Trēs ibi diēs commorātus sum, quārtō diē domum rediī.	I stayed there three days, I returned home on the fourth day.
 9	Rōmā vēnit.	He came from Rome.
-9	Ab Italiāvēnit.	He came from Italy.
+9	Ab Italiā vēnit.	He came from Italy.
 9	Neāpolim rediit.	He returned to Naples.
 9	In Italiam rediit.	He returned to Italy.
 9	Domō vēnit.	He came from home.

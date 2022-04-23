@@ -11,7 +11,7 @@ Nearly every example in _Bradley's Arnold_ (excluding the Introduction) where an
 
 Uses Unicode vulgar fractions operator character `U+2044` and Unicode Roman numerals `U+2160`–`U+2188`.
 
-The Anki deck's styling is currently set to use the free font [Libertinus](https://github.com/alerque/libertinus), which I recommend as it displays long vowels elegently. Information on changing the deck's styling can be found [here](https://docs.ankiweb.net/templates/styling.html).
+The Anki deck's styling is currently set to use the free font [Libertinus](https://github.com/alerque/libertinus), recommended for it's elegant rendering of long vowels even in combinations such as `fi`. Information on changing the deck's styling can be found [here](https://docs.ankiweb.net/templates/styling.html).
 
 # *Basiswoordenlijst Latijn (BWL, Basic Latin Word List)*
 

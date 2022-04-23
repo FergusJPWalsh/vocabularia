@@ -1,6 +1,18 @@
 # vocabularia
 Vocabulary tools, resorces and Anki flashcards
 
+# Examples from Bradley's Arnold
+Latin-English examples sentences and phrases from _Bradley's Arnold Latin Prose Composition_ ed. Sir James Mountford, 1938.
+
+* `bradleys_arnold_examples_chapters.tsv`
+* `BA Test v1.apkg`
+
+Nearly every example in _Bradley's Arnold_ (excluding the Introduction) where an English translation is given. The `.tsv` file contains the data set used to generate the Anki flashcards.
+
+Uses Unicode vulgar fractions operator character `U+2044` and Unicode Roman numerals `U+2160`–`U+2188`.
+
+The Anki deck's styling is currently set to use the free font [Libertinus](https://github.com/alerque/libertinus), which I recommend as it displays long vowels elegently. Information on changing the deck's styling can be found [here](https://docs.ankiweb.net/templates/styling.html).
+
 # *Basiswoordenlijst Latijn (BWL, Basic Latin Word List)*
 
 *Basiswoordenlijst Latijn* (Babeliowsky et al., 1975)
@@ -19,12 +31,3 @@ add in:
 * `625 words tab.tsv`
 
 English-Latin vocabulary based on the [Fluent Forever](https://blog.fluent-forever.com/base-vocabulary-list/) Blog’s basic word list for beginners (“The Most Awesome Word List You Have Ever Seen”).
-
-# Examples from Bradley's Arnold
-* `bradleys_arnold_examples.tsv`
-
-Latin-English examples sentences and phrases from _Bradley's Arnold Latin Prose Composition_ ed. Sir James Mountford, 1938.
-
-The dataset contains nearly every example where an English translation was supplied, though it is not exhaustive, and I have exercised my own judgment in including examples or alternate phrasing. The examples from the Introduction are ommitted.
-
-Uses Unicode vulgar fractions operator character `U+2044` and Unicode Roman numerals `U+2160`–`U+2188`.

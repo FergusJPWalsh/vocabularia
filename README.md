@@ -9,7 +9,7 @@ Latin-English examples sentences and phrases from _Bradley's Arnold Latin Prose 
 
 Nearly every example in _Bradley's Arnold_ (excluding the Introduction) where an English translation is given. The `.tsv` file contains the data set used to generate the Anki flashcards.
 
-Uses Unicode vulgar fractions operator character `U+2044` and Unicode Roman numerals `U+2160`–`U+2188`.
+The data set contains the Unicode vulgar fractions operator character `U+2044` and Unicode Roman numerals `U+2160`–`U+2188`.
 
 The Anki deck's styling is currently set to use the free font [Libertinus](https://github.com/alerque/libertinus), recommended for its elegant rendering of long vowels even in combinations such as `fi`. Information on changing the deck's styling can be found [here](https://docs.ankiweb.net/templates/styling.html).
 

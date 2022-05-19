@@ -38,8 +38,8 @@ rule	lat	eng	chapter
 12	Ille est equus, quem ēmī.	Yonder is the horse which I have bought.	1
 13	Dīvitiās optat, quās adeptūrus est numquam.	He is praying for riches, but will never obtain them.	1
 14	Cum hoc audīvisset, rediit.	Having heard this, he returned.	1
-15	They marvelled and went away.	Admīrātī abiēre.	1
-15	He attacked and took the city.	Urbem oppugnātam cēpit.	1
+15	Admīrātī abiēre.	They marvelled and went away.	1
+15	Urbem oppugnātam cēpit.	He attacked and took the city.	1
 16	Num cāsū factus est mundus?	Was the world (sun, moon, stars, and earth) made by chance?	2
 16	Lūna circum tellūrem movētur.	The moon moves round the world (this planet).	2
 16	Orbī terrārum imperābant Rōmānī.	The Romans were rulers of the world.	2
@@ -47,20 +47,20 @@ rule	lat	eng	chapter
 16	Nēmō ūsquam.	No one in the world.	2
 16	Multum hominibus nocuit.	He did the world much harm.	2
 16	In hāc vītā numquam eum sum vīsūrus.	I shall never see him in this world.	2
-21	He changed his seat.	Sēdem mūtāvit.	3
-21	The weather is changing.	Mūtātur tempestās.	3
-21	He broke up the crowd.	Multitūdinem dissipāvit.	3
-21	The fog broke up.	Dissipāta est nebula.	3
-21	He moved his arm.	Bracchium mōvit.	3
-21	The moon moves round the earth.	Lūna circā tellūrem movētur.	3
-21	He rolled down stones.	Lapidēs dēvolvit.	3
-21	The stones roll down.	Dēvolvuntur lapidēs.	3
-21	He will surrender the city.	Urbem dēdet.	3
-21	The enemy will surrender.	Sē dēdent hostēs.	3
-21	Riches increase.	Crēscunt dīvitiae.	3
-21	He increased his wealth.	Opēs suās auxit.	3
-21	He collected books.	Librōs collēgit.	3
-21	A crowd was collecting.	Conveniēbat multitūdō.	3
+21	Sēdem mūtāvit.	He changed his seat.	3
+21	Mūtātur tempestās.	The weather is changing.	3
+21	Multitūdinem dissipāvit.	He broke up the crowd.	3
+21	Dissipāta est nebula.	The fog broke up.	3
+21	Bracchium mōvit.	He moved his arm.	3
+21	Lūna circā tellūrem movētur.	The moon moves round the earth.	3
+21	Lapidēs dēvolvit.	He rolled down stones.	3
+21	Dēvolvuntur lapidēs.	The stones roll down.	3
+21	Urbem dēdet.	He will surrender the city.	3
+21	Sē dēdent hostēs.	The enemy will surrender.	3
+21	Crēscunt dīvitiae.	Riches increase.	3
+21	Opēs suās auxit.	He increased his wealth.	3
+21	Librōs collēgit.	He collected books.	3
+21	Conveniēbat multitūdō.	A crowd was collecting.	3
 23	Honōrēs petō.	I aim at high office.	3
 23	Ōtium dēsīderō.	I crave for leisure.	3
 23	Pācem spērō.	I hope for peace.	3
@@ -86,9 +86,9 @@ rule	lat	eng	chapter
 32	Frātrem tuum fortem esse intellegō.	I perceive that your brother is a brave man.	5
 32	Rem ita sē habēre videō.	I see that the fact is so.	5
 32	Sentīmus calēre ignem.	We perceive-by-our-senses that fire is hot.	5
-33	He says that he is not ready.	Sē parātum esse negat.	5
-33	He said he would never do this.	Sē hoc umquam esse factūrum negāvit.	5
-33	He says he has done nothing.	Negat sē quidquam fēcisse.	5
+33	Sē parātum esse negat.	He says that he is not ready.	5
+33	Sē hoc umquam esse factūrum negāvit.	He said he would never do this.	5
+33	Negat sē quidquam fēcisse.	He says he has done nothing.	5
 34	Hoc sē fēcisse negat.	He says that he himself did not do this.	5
 36	Sē in Asiā esse dīcit.	He says that he is in Asia.	5
 36	Sē in Asiā esse dīxit.	He said that he was in Asia.	5
@@ -504,8 +504,8 @@ rule	lat	eng	chapter
 212	Hōrā eum septimā vīdī.	I saw him at the seventh hour.	25
 212	Gladiō eum interfēcī.	I slew him with a sword.	25
 212	Rōmā profectus est.	He set out from Rome.	25
-213	Rōmae.	at Rome.	25
-213	Londinī.	at London.	25
+213	Rōmae.	At Rome.	25
+213	Londinī.	At London.	25
 216	Brūtus Caesarem interfēcit.	Brutus killed Caesar.	25
 216	Caesar ā Brūtō interfectus est.	Caesar was killed by Brutus.	25
 217	Nēminī ā nōbīs nocētur.	No one is hurt by us.	25
@@ -586,9 +586,9 @@ rule	lat	eng	chapter
 240	Mare īnfēstum habuit.	He infested (beset) the sea.	28
 240	Haec missa faciō.	I dismiss these matters.	28
 240	Hoc cognitum habeō.	I am certain of this.	28
-240	I consider you as my friend.	Tē amīcōrum in numerō habeō.	28
-240	I look on this as certain.	Hoc prō certō habeō.	28
-240	I behaved as a citizen.	Mē prō cīve gessī.	28
+240	Tē amīcōrum in numerō habeō.	I consider you as my friend.	28
+240	Hoc prō certō habeō.	I look on this as certain.	28
+240	Mē prō cīve gessī.	I behaved as a citizen.	28
 241	Miserum hominem!	Wretched man!	28
 241	Ō spem vānissimam!	Foolish hope!	28
 244	Frūmentum eīs suppeditāvit.	He supplied corn to them.	29
@@ -808,13 +808,13 @@ rule	lat	eng	chapter
 294	Plūs dētrīmentī.	Greater loss.	37
 294	Nihil praemiī.	No reward.	37
 294	Parum vīrium.	Insufficient strength.	37
-294	Quid novī?.	What news?.	37
+294	Quid novī?.	What news?	37
 294	Nimium temporis.	Too much time.	37
 294	Hoc ēmolumentī.	This gain.	37
 294	Quid hoc rēī est?.	What is the meaning of this?.	37
 294	Tum temporis.	At that time.	37
 294	Eō audāciae.	To such a pitch of boldness.	37
-294	Ubi gentium.	Where in the world?	37
+294	Ubi gentium?	Where in the world?	37
 294	Cum id aetātis puerō.	With a boy of that age.	37
 294	Ad id locōrum.	Up to that point of time.	37
 295	Aliquid humile.	Something degrading.	37
@@ -901,9 +901,9 @@ rule	lat	eng	chapter
 314	Rōmā venit.	He comes from Rome.	41
 314	Tarquiniōs Corinthō fūgit.	He went into exile to Tarquinii from Corinth.	41
 314	Rūre rediit.	He returned from the country.	41
-315	He returned home from his friends at Corinth.	Corinthō ab amīcīs domum rediit.	41
-315	He sent a dispatch to the senate at Rome.	Rōmam ad senātum litterās mīsit.	41
-315	He returned to his friends in Africa.	In Āfricam ad amīcōs rediit.	41
+315	Corinthō ab amīcīs domum rediit.	He returned home from his friends at Corinth.	41
+315	Rōmam ad senātum litterās mīsit.	He sent a dispatch to the senate at Rome.	41
+315	In Āfricam ad amīcōs rediit.	He returned to his friends in Africa.	41
 316	In urbe Londiniō.	In the city of London.	41
 316	Domī meae commorātus est.	He stayed at my house.	41
 316	In vetere domō.	In his old home.	41

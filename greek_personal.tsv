@@ -37,13 +37,13 @@
 ἡ Πέμπτη ἡμέρα	Thursday
 ἡ Παρασκευή	Friday
 τὸ Σάββατον	Saturday
-ἔστι ἡ πρώτη ὥρα	It's one o'clock (1:00)
-ἡ δευτέρα καὶ ἥμισυ	Half-past two (2:30)
-ἡ δευτέρα καὶ τὸ τέταρτον	Quarter-past two (2:15)
-τὸ τέταρτον εἰς τὴν τρίτην	Quarter-to three (2:45)
-δέκα λεπτὰ εἰς τὴν τρίτην	Ten-to three (2:50)
-ἡ τρίτη καὶ δέκα λεπτά	Ten-past three (3:10)
-ποία ὥρα ἐστίν;	What time is it?
+ἔστι ἡ πρώτη ὥρα	it's one o'clock (1:00)
+ἡ δευτέρα καὶ ἥμισυ	half-past two (2:30)
+ἡ δευτέρα καὶ τὸ τέταρτον	quarter-past two (2:15)
+τὸ τέταρτον εἰς τὴν τρίτην	quarter-to three (2:45)
+δέκα λεπτὰ εἰς τὴν τρίτην	ten-to three (2:50)
+ἡ τρίτη καὶ δέκα λεπτά	ten-past three (3:10)
+ποία ὥρα ἐστίν;	what time is it?
 ὁ ὄρθρος	dawn
 ἡ πρωία	morning
 ἡ μεσημβρία	midday
@@ -53,4 +53,68 @@
 ὁ ἀφεδρών	toilet
 πεινῇς;	are you hungry?
 διψᾷς;	are you thirsty?
-
+συγγνωθί μοι, συγγνῶτε μοι	pardon me
+μεταμέλει μοι (τούτου)	I'm sorry (about this)
+μέλει μοι	it matters
+ἐπιλανθάνομαι	I forget
+ἐπιλαθόμην	I forgot (aorist)
+ἐπιλέληθα	I have forgotten (perfect)
+ἐπιλάνεσθαι (+ gen.)	to forget
+μιμνήσκομαι	I remember
+ἐμνησάμην	I remembered (aorist)
+μέμηναι	I have remembered (perfect)
+μιμνήσκεσθαι (+ gen.)	to remember
+εἴωθα	I usually do
+εἰωθέναι (+ inf.)	to usually do
+ἀναγιγνώσκω	I am reading
+ἀνέγνων	I read
+ἀναγιγνώσκειν	to read
+ἀναγνῶναι	to have read
+ἀνάγνωθι	read! (singular)
+ἀνάγνωτε	read! (plural)
+εἰδέναι	to know (> οἶδα)
+ἰδεῖν	to see (> εἶδον)
+εἶδον	I saw (aorist for ὁράω)
+ἔοικα (+ dat.), ὡς ἔοικε	I seem like, as it seems
+χρῶμαι (χράομαι), ἐχρησάμην (+ dat.)	I use, I used
+οἶμαι, ᾤμην (impf.), ᾠήθην (aor.)	I think, I was thinking, I thought
+κεῖμαι	it stands, it is set up (pass. for τίθημι)
+δίδωμι, δώσω, ἔδωκα	I give, I will give, I gave
+τίθημι, θήσω, ἔθηκα, τέθηκα	I place, I will place, I placed, I have placed
+πίνω, πίομαι, ἔπιον	I drink, I will drink, I drank
+μέλλω, μελλήσω, ἐμέλλησα	I intend to, I will intend to, I was intending to
+ἐσθίω, ἔφαγον	I eat, I ate
+αἰτέω, αἰτήσω, ᾔτησα (+ acc.)	I ask for, I will ask for, I asked for
+εἷς, μία, ἕν αˊ	one
+δύο βˊ	two
+τρεῖς, τρία γˊ	three
+τέσσαρες, τέσσαρα δˊ	four
+πέντε εˊ	five
+ἕξ ϛˊ	six
+ἑπτά ζˊ	seven
+ὀκτώ ηˊ	eight
+ἐννέα θˊ	nine
+δέκα ιˊ	ten
+ἕνδεκα ιαˊ	eleven
+δώδεκα ιβˊ	twelve
+τρεῖς καὶ δέκα ιγˊ	thirteen
+εἴκοσι κˊ	twenty
+τριάκοντα λˊ	thirty
+τεσσαράκοντα μˊ	fourty
+πεντήκοντα νˊ	fifty
+ἑξήκοντα ξˊ	sixty
+ἐβδομήκοντα οˊ	seventy
+ὀγδοήκοντα πˊ	eighty
+ἐνενήκοντα ϙˊ	ninety
+ἑκατόν ρˊ	one hundred
+διᾱκόσιοι σˊ	two hundred
+τριᾱκόσιοι τˊ	three hundred
+πεντακόσιοι φˊ	five hundred
+χίλιοι ͵α	one thousand
+δισχίλιοι ͵β	two thousand
+τρισχίλιοι ͵γ	three thousand
+μύριοι ͵ι	ten thousand
+πρὸς βορρᾶν	to the north
+πρὸς νότον	to the south
+πρὸς ἀνατολάς	to the east
+πρὸς ἑσπέραν	to the west

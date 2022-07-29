@@ -1,9 +1,9 @@
 τὸ ἀρσενικὸν γένος	masculine gender
 τὸ θηλυκὸν γένος	feminine gender
 τὸ οὐδέτερον γένος	neuter gender
-ὁ ἑνικὸς ἂριθμός	singular number
-ὁ δυϊκὸς ἂριθμός	dual number
-ὁ πληθυντικὸς ἂριθμός	plural number
+ὁ ἑνικὸς ἀριθμός	singular number
+ὁ δυϊκὸς ἀριθμός	dual number
+ὁ πληθυντικὸς ἀριθμός	plural number
 ἡ ὀνομαστικὴ πτῶσις	nominative case
 ἡ αἰτιᾱτικὴ πτῶσις	accusative case
 ἡ γενικὴ πτῶσις	genitive case
@@ -37,25 +37,35 @@
 ἡ Πέμπτη ἡμέρα	Thursday
 ἡ Παρασκευή	Friday
 τὸ Σάββατον	Saturday
-ἔστι ἡ πρώτη ὥρα	it's one o'clock (1:00)
+ἔστι ἡ πρώτη ὥρα	it’s one o’clock (1:00)
 ἡ δευτέρα καὶ ἥμισυ	half-past two (2:30)
 ἡ δευτέρα καὶ τὸ τέταρτον	quarter-past two (2:15)
 τὸ τέταρτον εἰς τὴν τρίτην	quarter-to three (2:45)
 δέκα λεπτὰ εἰς τὴν τρίτην	ten-to three (2:50)
 ἡ τρίτη καὶ δέκα λεπτά	ten-past three (3:10)
-ποία ὥρα ἐστίν;	what time is it?
+ποία ὥρα ἐστίν; πηνίκα ἐστὶν τῆς ἡμέρας;	what time is it?
 ὁ ὄρθρος	dawn
 ἡ πρωία	morning
 ἡ μεσημβρία	midday
 ἡ δείλη	afternoon
 ἡ ἐσπέρα, ἡ ὀψία	evening
 τὸ ὀπτάνιον	kitchen
+τὸ πανδοκεῖον	an inn
 ὁ ἀφεδρών	toilet
 πεινῇς;	are you hungry?
 διψᾷς;	are you thirsty?
+τὸ ποτήριον	a cup, glass
+τὸ λεκάνιον	a plate
+τὸ τρύβλιον	a bowl
+τὸ μαχαίριον	a knife
+ὁ ψιλὸς λόγος, ἄνευ μέτρου	prose
+ἐν μέτρῳ	in verse
+τὸ καπηλεῖον	a shop, tavern
 συγγνωθί μοι, συγγνῶτε μοι	pardon me
-μεταμέλει μοι (τούτου)	I'm sorry (about this)
-μέλει μοι	it matters
+μεταμέλει μοι (τούτου)	I’m sorry (about this)
+μέλει μοι (περί τούτου)	it matters (I care about this)
+οὐδὲν μοι μέλει	it doesn’t matter to me
+ἀμέλει	nevermind, don’t worry about it
 ἐπιλανθάνομαι	I forget
 ἐπιλαθόμην	I forgot (aorist)
 ἐπιλέληθα	I have forgotten (perfect)
@@ -118,3 +128,32 @@
 πρὸς νότον	to the south
 πρὸς ἀνατολάς	to the east
 πρὸς ἑσπέραν	to the west
+ἄλλο τι ἤ	don’t you?
+ἄλλως τε καὶ	especially
+δεινὸς λέγειν	skilled in speaking
+δίκαιός εἰμι	I am justified
+δοκῶ μοι	I think, it seems to me
+ἐκ παίδων	from childhood
+εὖ λέγεις	you give me good news!
+ἔχω + inf.	I am able to
+ἴθι δή	come on then, tell me
+κινδυνεύω + inf.	I am likely to
+λόγον ἔχω	I have a reason
+μέγα λέγω	I boast
+νῦν δε	but as it is
+ὀλίγου δεῖν	almost
+οὐδὲν λέγω	I speak nonsense
+οὐκ ἔστιν ὅπως	it is not possible that
+πλέον τι ποιῶ	I succeed
+πολλοῦ δέω	I am far from
+πῶς λέγεις;	what do you mean?
+ταῦτ’ οὖν	that’s why
+ταχ’ ἄν	in reality
+τὴν ἀρχὴν	in the first place
+τί δέ	but what, then?
+τι ἤ οὐδέν	little or nothing
+τὸ παράπαν	entirely
+ὡς ὤνησας ὅτι ἀπεκρίνω	how helpful you were by answering
+τὸ ἀπὸ τοῦδε	after this
+ἐμὸν ἔργον οὔκ ἐστι	it’s not my business
+φθόνος οὐδείς	I have no objection

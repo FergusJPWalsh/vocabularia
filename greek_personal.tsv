@@ -9,8 +9,8 @@
 ἡ γενικὴ πτῶσις	genitive case
 ἡ δοτικὴ πτῶσις	dative case
 ἡ κλητικὴ πτῶσις	vocative case
-ὁ ἐνεστώς χρόνος	present tense
-ὁ παρεληλυθώς χρόνος	past tense
+ὁ ἐνεστὼς χρόνος	present tense
+ὁ παρεληλυθὼς χρόνος	past tense
 ὁ μέλλων χρόνος	future tense
 ὁ παρατατικὸς χρόνος	imperfect tense
 ὁ ὑπερσυντέλικος χρόνος	pluperfect tense
@@ -63,7 +63,7 @@
 τὸ καπηλεῖον	a shop, tavern
 συγγνωθί μοι, συγγνῶτε μοι	pardon me
 μεταμέλει μοι (τούτου)	I’m sorry (about this)
-μέλει μοι (περί τούτου)	it matters (I care about this)
+μέλει μοι (περὶ τούτου)	it matters (I care about this)
 οὐδὲν μοι μέλει	it doesn’t matter to me
 ἀμέλει	nevermind, don’t worry about it
 ἐπιλανθάνομαι	I forget
@@ -95,40 +95,10 @@
 μέλλω, μελλήσω, ἐμέλλησα	I intend to, I will intend to, I was intending to
 ἐσθίω, ἔφαγον	I eat, I ate
 αἰτέω, αἰτήσω, ᾔτησα (+ acc.)	I ask for, I will ask for, I asked for
-εἷς, μία, ἕν αˊ	one
-δύο βˊ	two
-τρεῖς, τρία γˊ	three
-τέσσαρες, τέσσαρα δˊ	four
-πέντε εˊ	five
-ἕξ ϛˊ	six
-ἑπτά ζˊ	seven
-ὀκτώ ηˊ	eight
-ἐννέα θˊ	nine
-δέκα ιˊ	ten
-ἕνδεκα ιαˊ	eleven
-δώδεκα ιβˊ	twelve
-τρεῖς καὶ δέκα ιγˊ	thirteen
-εἴκοσι κˊ	twenty
-τριάκοντα λˊ	thirty
-τεσσαράκοντα μˊ	fourty
-πεντήκοντα νˊ	fifty
-ἑξήκοντα ξˊ	sixty
-ἐβδομήκοντα οˊ	seventy
-ὀγδοήκοντα πˊ	eighty
-ἐνενήκοντα ϙˊ	ninety
-ἑκατόν ρˊ	one hundred
-διᾱκόσιοι σˊ	two hundred
-τριᾱκόσιοι τˊ	three hundred
-πεντακόσιοι φˊ	five hundred
-χίλιοι ͵α	one thousand
-δισχίλιοι ͵β	two thousand
-τρισχίλιοι ͵γ	three thousand
-μύριοι ͵ι	ten thousand
 πρὸς βορρᾶν	to the north
 πρὸς νότον	to the south
 πρὸς ἀνατολάς	to the east
 πρὸς ἑσπέραν	to the west
-ἄλλο τι ἤ	don’t you?
 ἄλλως τε καὶ	especially
 δεινὸς λέγειν	skilled in speaking
 δίκαιός εἰμι	I am justified
@@ -145,12 +115,10 @@
 οὐδὲν λέγω	I speak nonsense
 οὐκ ἔστιν ὅπως	it is not possible that
 πλέον τι ποιῶ	I succeed
-πολλοῦ δέω	I am far from
 πῶς λέγεις;	what do you mean?
 ταῦτ’ οὖν	that’s why
 ταχ’ ἄν	in reality
 τὴν ἀρχὴν	in the first place
-τί δέ	but what, then?
 τι ἤ οὐδέν	little or nothing
 τὸ παράπαν	entirely
 ὡς ὤνησας ὅτι ἀπεκρίνω	how helpful you were by answering

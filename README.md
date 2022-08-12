@@ -1,6 +1,12 @@
 # vocabularia
 Vocabulary tools, resorces and Anki flashcards
 
+# Auden _Greek Prose Phrasebook_
+Ancient Greek-English phrases from Auden _Greek Prose Phrase-Book: Based on Thucydides, Xenophon, Demosthenes, Plato_ (1899). Note that where Auden gave a large number of Greek glosses for an English phrase, some have been removed to make it more suitable for memorization. In addition, footnotes and additional explainations have not been included in this deck. You can find a scan of the full book on [Internet Archive](https://archive.org/embed/greekprosephras00audegoog) and a [full transcription by Bedewere](https://archive.org/details/Auden_Gppb).
+
+* `auden.tsv`
+* `Auden Greek Phrasebook.apkg`
+
 # Examples from Bradley's Arnold
 Latin-English examples sentences and phrases from _Bradley's Arnold Latin Prose Composition_ ed. Sir James Mountford, 1938.
 

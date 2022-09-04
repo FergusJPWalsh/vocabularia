@@ -154,7 +154,6 @@ rule	lat	eng	chapter
 59	Omnium iūdiciō.	By a unanimous verdict.	9
 59	In hōc omnium lūctū.	In this universal mourning.	9
 59	Meā ūnīus sententiā.	By my single vote.	9
-59	Post hominum memoriam.	Within human memory.	9
 60	Summus mōns.	The top of the mountain	9
 60	In mediam viam.	Into the middle of the road.	9
 60	Reliquum opus.	The rest of the work.	9
@@ -213,13 +212,11 @@ rule	lat	eng	chapter
 76	Quī mē vīcit.	My conqueror.	10
 76	Ea quae vēra sunt.	The truth.	10
 77	Est flūmen quod appellātur Tamesis.	There is a river which is called the Thames.	11
-77	Mulierem aspiciō quae piscēs vēndit.	I see a woman who is selling fish.	11
 77	Ait sē mulierem aspicere quae piscēs vēndat.	He says that he sees a woman who is selling fish.	11
 78	Ad rēgem vēnī, quem cum vīdissem...	I came to the king, and when I had seen him...	11
 79	Dīxit prōditōrem esse eum ... quem brevī peritūrum esse.	He said that he was a traitor ... and that he would soon perish.	11
 80	Nēmō est quīn tē dēmentem putet.	There is no one but thinks you mad (i.e. the whole world thinks, etc.)	11
 80	Nēmō fuit quīn vīderim.	There was no one whom I did not see.	11
-81	Prīmus haec fēcit.	He was the first who did this.	11
 82	Agricolam laudat iūris lēgumque perītus.	It is the farmer whom the lawyer praises.	11
 83	Thēbae, quod Boeōtiae caput est.	Thebes, which is the capital of Boeotia.	11
 83	Ea vēra est pietās.	That is true piety.	11
@@ -355,8 +352,6 @@ rule	lat	eng	chapter
 147	Sī veniās, videās.	If you should come, you would see.	19
 149	Abeat.	Let him go away.	19
 149	Amēmus patriam.	Let us love our country.	19
-149	Nē dubitāverīs.	Do not hesitate.	19
-149	Nē veniat.	Let him not come.	19
 149	Sit fūr.	Granted that he is a thief.	19
 149	Fuerit malus cīvis.	Suppose he was a bad citizen.	19
 149	Quō mē nunc vertam?	Where am I now to turn?	19
@@ -365,7 +360,6 @@ rule	lat	eng	chapter
 150	Utinam adessēs!	Would that you were here!	19
 150	Utinam potuissem!	Would I had been able!	19
 150	Quod utinam nē faciātis!	And may you never do this!	19
-151	Hanc viam sī asperam esse negem, mentiar.	If I were to deny that this road is rough, I would lie.	19
 151	Sī faciās, peccēs.	If you were to do it, you would sin.	19
 151	Sī facerēs, peccārēs.	If you were doing it, you would be sinning.	19
 151	Sī fēcissēs, peccāvissēs.	If you had done it, you would have sinned.	19
@@ -495,7 +489,6 @@ rule	lat	eng	chapter
 199	Hoc facerēs oportuit.	You should have done this.	24
 200	Tibi currendum est.	You must run.	24
 200	Tibi currendum fuit.	You ought to have run.	24
-200	Cīvibus ā tē cōnsulendum est.	You ought to take heed for your fellow citizens.	24
 200	Haec tibi facienda sunt (erunt).	You ought to do this.	24
 200	Haec tibi facienda erant (fuērunt).	You ought to have done this.	24
 201	Tibi moriendum est (erit).	You must die (will have to die).	24
@@ -706,7 +699,6 @@ rule	lat	eng	chapter
 268	Tuā fortitūdine hoc meruistī.	Through your courage you deserved this.	33
 268	Propter tuam fortitūdinem hoc dēcrēvit senātus.	Because of your courage the senate decreed this.	33
 269	Cum frātre meō vēnī.	I came with my brother.	33
-269	Cum tēlō vēnit.	He came with a weapon.	33
 269	Tēcum ībit.	He will go with you.	33
 270	Cum dignitāte morī satius est quam cum ignōminiā vīvere.	It is better to die with honour than to live in disgrace.	33
 270	Summā haec dīligentiā fēcī.	I did this with the greatest care.	33
@@ -717,7 +709,6 @@ rule	lat	eng	chapter
 270	Iussū tuō.	At your command.	33
 270	Iniussū Caesaris.	Without Caesar’s permission.	33
 270	Bonā tuā veniā.	With your kind permission.	33
-270	Nūllō negōtiō.	Without trouble.	33
 270	Nescio quō pactō.	In some way or other.	33
 271	Eximiā fuit corporis pulchritūdine.	He was a man of great personal beauty.	33
 272	Proximā aestāte in Graeciā mortuus est.	He died in Greece in the following summer.	34
@@ -830,7 +821,6 @@ rule	lat	eng	chapter
 300	Reī pūblicae dissēnsiō.	A political disagreement.	38
 300	Pyrrhī rēgis bellum.	The war with King Pyrrhus.	38
 300	Suī fīdūcia.	Confidence in one’s self.	38
-300	Lēgum oboedientia.	Submission to the law.	38
 300	Deōrum opīniō.	An impression about the gods.	38
 301	Rērum novārum cupidus.	Desirous of change.	38
 301	Mīlitiae ignārus.	Ignorant of warfare.	38
@@ -959,10 +949,9 @@ rule	lat	eng	chapter
 331	Ante aciem.	Before the battle line.	43
 331	Ante mē.	Before my time.	43
 331	Apud cannās.	Near Cannae.	43
-331	Apud mē.	In my house.	43
+331	Apud mē.	In my house. In my judgement.	43
 331	Apud Xenophōntem.	In the writings of Xenophon.	43
 331	Apud vōs contiōnātus est.	He made a speech in your hearing.	43
-331	Apud mē.	In my judgment.	43
 331	Apud vōs ille plūs valet.	He has more influence with you.	43
 331	Circā tellūrem.	Round the earth.	43
 331	Circā viam.	On both sides of the road.	43
@@ -1045,7 +1034,6 @@ rule	lat	eng	chapter
 332	Cum imperiō esse.	To be invested with military power.	44
 332	Tēcum mihi amīcitia est.	I have friendship with you.	44
 332	Tēcum bellum gerō.	I am waging war against you.	44
-332	Hoc mēcum commūnicāvit.	He imparted this to me.	44
 332	Maximō cum damnō meō.	To my great loss.	44
 332	Cōram populō.	In the presence of the people.	44
 332	Dē moenibus dēturbāre.	To drive in confusion from the walls.	44
@@ -1073,8 +1061,6 @@ rule	lat	eng	chapter
 332	Prō potestāte.	In virtue of your power.	44
 332	Caedēs minor quam prō tantā victōriā.	Slaughter small in proportion to the greatness of the victory.	44
 332	Sine dubiō.	Doubtless.	44
-332	Nūllō negōtiō.	Without trouble.	44
-332	Rē īnfectā.	Without result.	44
 332	Nūllō repugnante.	Without resistance.	44
 332	Imprūdēns.	Without being aware.	44
 332	Stetit impavidus neque locō cessit.	He stood undismayed, without yielding ground.	44
@@ -1451,7 +1437,6 @@ rule	lat	eng	chapter
 467	Seu legit, seu scrībit, nihil temporis terit.	Whether he reads or writes, he wastes no time.	58
 467	Utrum legat an scrībat nescio.	I do not know whether he is reading or writing.	58
 467	Aut legit aut scrībit.	He is either reading or writing.	58
-468	Ōderint, dum metuant.	Let them hate, provided they fear.	58
 468	Maneat, modo taceat.	Let him remain provided he holds his tongue.	58
 468	Ita maneat, ut mihi pāreat.	Let him remain provided he obeys me.	58
 474	Honestum tāle est ut, vel sī ignōrārent id hominēs, esset laudābile.	Virtue is such that it would be worthy of praise even if men did not know of it.	59

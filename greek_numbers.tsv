@@ -15,9 +15,10 @@
 πεντεκαίδεκα ιεˊ	fifteen 15
 ἑκκαίδεκα ιϛˊ	sixteen 16
 ἑπτακαίδεκα ιζˊ	seventeen 17
-ὀκτωκαίδεκα ιηˊ	eighteen 18
-ἐννεακαίδεκα ιθˊ	nineteen 19
+ὀκτωκαίδεκα, δυοῖν δέοντες εἴκοσι ιηˊ	eighteen 18
+ἐννεακαίδεκα, ἑνὸς δέοντες εἴκοσι ιθˊ	nineteen 19
 εἴκοσι κˊ	twenty 20
+εἴκοσι (καὶ) εἷς καˊ	twenty one 21
 τριάκοντα λˊ	thirty 30
 τεσσαράκοντα μˊ	forty 40
 πεντήκοντα νˊ	fifty 50
@@ -38,4 +39,83 @@
 δισχίλιοι ͵β	two thousand 2,000
 τρισχίλιοι ͵γ	three thousand 3,000
 μύριοι ͵ι	ten thousand 10,000
+μυρίοι	countless, infinite
+δισμύριοι ͵κ	twenty thousand 20,000
+δεκακισμύριοι ͵ρ	one hundred thousand 100,000
 τριᾱκόσιοι εἴκοσι πέντε τκεˊ	three hundred and twenty five 325
+πεντακόσιοι πεντήκοντα πέντε φνεˊ	five hundred and fifty five 555
+πρῶτος, -η, -ον	first 1st
+δεύτερος, -α, -ον	second 2nd
+τρίτος, -η, -ον	third 3rd
+τέταρτος, -η, -ον	fourth 4th
+πέμπτος, -η, -ον	fifth 5th
+ἕκτος, -η, -ον	sixth 6th
+ἕβδομος, -η, -ον	seventh 7th
+ὄγδοος, -η, -ον	eigth 8th
+ἔνατος, -η, -ον	ninth 9th
+δέκατος, -η, -ον	tenth 10th
+ἑνδέκατος, -η, -ον	eleventh 11th
+δωδέκατος, -η, -ον	twelfth 12th
+τρίτος, -η, -ον καὶ δέκατος, -η, -ον	thirteenth 13th
+τέταρτος, -η, -ον καὶ δέκατος, -η, -ον	fourteenth 14th
+πεντεκαιδέκατος, -η, -ον	fifteenth 15th
+ἑκκαιδέκατος, -η, -ον	sixteenth 16th
+ἑπτακαιδέκατος, -η, -ον	seventeenth 17th
+ὀκτωκαιδέκατος, -η, -ον	eighteenth 18th
+ἐννεακαιδέκατος, -η, -ον	nineteenth 19th
+ἑνὸς δέον εἰκοστὸν ἔτος	the nineteenth year
+εἰκοστός, -ή, -όν	twentieth 20th
+πρῶτος καὶ εἰκοστός	twenty first 21st
+τριᾱκοστός, -ή, -όν	thirtieth 30th
+τεσσαρακοστός, -ή, -όν	fortieth 40th
+πεντηκοστός, -ή, -όν	fiftieth 50th
+ἑξηκοστός, -ή, -όν	sixtieth 60th
+ἑβδομηκοστός, -ή, -όν	seventieth 70th
+ὀγδοηκοστός, -ή, -όν	eightieth 80th
+ἐνενηκοστός, -ή, -όν	ninetieth 90th
+ἑκατοστός, -ή, -όν	one hundreth 100th
+διᾱκοσιοστός, -ή, -όν	two hundreth 200th
+τριᾱκοσιοστός, -ή, -όν	three hundreth 300th
+τέτρακοσιοστός, -ή, -όν	four hundreth 400th
+πέντακοσιοστός, -ή, -όν	five hundreth 500th
+ἑξακοσιοστός, -ή, -όν	six hundreth 600th
+ἑπτακοσιοστός, -ή, -όν	seven hundreth 700th
+ὀκτακοσιοστός, -ή, -όν	eight hundreth 800th
+ἐνακοσιοστός, -ή, -όν	nine hundreth 900th
+χῑλιοστός, -ή, -όν	one thousandth 1,000th
+δισχῑλιοστός, -ή, -όν	two thousandth 2,000th
+τρισχῑλιοστός, -ή, -όν	three thousandth 3,000th
+μῡριοστός, -ή, -όν	ten thousandth 10,000th
+ἄπαξ	once 1×
+δίς	twice 2×
+τρίς	three times 3×
+τετράκις	four times 4×
+πεντάκις	five times 5×
+ἑξάκις	six times 6×
+ἑπτάκις	seven times 7×
+ὀκτάκις	eight times 8×
+ἐνάκις	nine times 9×
+δεκάκις	ten times 10×
+ἑνδεκάκις	eleven times 11×
+δωδεκάκις	twelve times 12×
+τρεισκαιδεκάκις	thirteen times 13×
+ἐννεακαιδεκάκις	nineteen times 19×
+εἰκοσάκις	twenty times 20×
+εἰκοσάκις ἅπαξ	twenty one times 21×
+πεντηκοντάκις	fifty times 50×
+ἑκατοντάκις	one hundred times 100×
+διᾱκοσιάκις	two hundred times 200×
+πεντακοσιάκις	five hundred times 500×
+χῑλιάκις	one thousand times 1,000×
+δισχῑλιάκις	two thousand times 2,000×
+τρισχῑλιάκις	three thousand times 3,000×
+μῡριάκις	ten thousand times 10,000×
+δισμῡριάκις	twenty thousand times 20,000×
+δεκακισμῡριάκις	one hundred thousand times 100,000×
+τὰ δὶς πέντε δέκα ἐστίν	2 × 5 = 10
+τὰ δωδεκάκις δύο ἐστιν τέσσαρα καὶ εἴκοσιν	12 × 2 = 24
+ἥμισυς, ἥμισεια, ἥμισυ	half ½
+τριτημόριος, -α, -ον	a third ⅓
+ὁ ἀριθμός, -οῦ	number
+ἄρτιος, -α, -ον	even
+περισσός, -ή, -όν	odd

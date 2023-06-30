@@ -29,7 +29,7 @@ The Anki deck's styling is currently set to use the free font [Libertinus](https
 * `bwl-fjpw.tsv` contains the general vocabulary. Latin and English translations are mostly the same as currently on Logeion.
 * `bwl-fjpw-macron.tsv`: macrons being added to Latin phrases and English translations being re-worked. (up to 401)
 * `bwl-ned.txt`: original Dutch translations for the general vocabulary.
-* `bwl-authors.tsv`: additional author-specific vocabulary. Contains original Dutch translations and English. Macrons added to Latin text. Checking: currently up to Horace, 270. Revise: 97, 120, 172, 261.
+* `bwl-authors.tsv`: additional author-specific vocabulary. Contains original Dutch translations and English. Macrons added to Latin text. Checking: currently up to Horace, 295. Revise: 97, 120, 172, 261, 294.
 
 See also http://www.stilus.nl/woorden/ for more resources on BWL
 
